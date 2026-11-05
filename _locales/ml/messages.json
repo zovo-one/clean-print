@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - തിരക്കില്ലാതെ PDF ആയി സേവ് ചെയ്യുക",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "ഒറ്റ ക്ലിക്കിൽ പ്രാദേശിക വൃത്തിയാക്കൽ: പരസ്യങ്ങൾ നീക്കി വൃത്തിയുള്ള PDF പ്രിന്റ് ചെയ്യുക. അക്കൗണ്ട് വേണ്ട, ട്രാക്കിംഗ് ഇല്ല.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% പ്രാദേശികം — ഒന്നും നിങ്ങളുടെ ബ്രൗസർ വിട്ടുപോകുന്നില്ല."
+  },
+  "btnDeclutter": {
+    "message": "ഈ പേജ് വൃത്തിയാക്കുക"
+  },
+  "lblFontSize": {
+    "message": "ഫോണ്ട് വലുപ്പം"
+  },
+  "lblRemoveImages": {
+    "message": "ചിത്രങ്ങൾ നീക്കം ചെയ്യുക"
+  },
+  "lblPageBreaks": {
+    "message": "വിഭാഗങ്ങൾ പുതിയ പേജുകളിലേക്ക് വേർതിരിക്കുക"
+  },
+  "lblTheme": {
+    "message": "തീം"
+  },
+  "themeLight": {
+    "message": "ലൈറ്റ്"
+  },
+  "themeSepia": {
+    "message": "സെപിയ"
+  },
+  "footerLocal": {
+    "message": "സ്വകാര്യം · പ്രാദേശികം · അക്കൗണ്ട് വേണ്ട"
+  },
+  "footerOptions": {
+    "message": "കൂടുതൽ ക്രമീകരണങ്ങൾ"
+  },
+  "statusOpening": {
+    "message": "വൃത്തിയുള്ള പ്രിവ്യൂ തുറക്കുന്നു…"
+  },
+  "errRestricted": {
+    "message": "ഈ പേജ് വൃത്തിയാക്കാൻ കഴിയില്ല (ബ്രൗസർ അല്ലെങ്കിൽ സ്റ്റോർ പേജ്)."
+  },
+  "errNoTab": {
+    "message": "സജീവമായ ടാബ് കണ്ടെത്തിയില്ല."
+  },
+  "errInject": {
+    "message": "ഇവിടെ വൃത്തിയുള്ള പ്രിവ്യൂ തുറക്കാൻ കഴിഞ്ഞില്ല."
+  },
+  "previewTitle": {
+    "message": "Clean Print പ്രിവ്യൂ"
+  },
+  "btnPrint": {
+    "message": "പ്രിന്റ് / PDF സേവ് ചെയ്യുക"
+  },
+  "btnPrintTitle": {
+    "message": "ഈ വൃത്തിയുള്ള ഡോക്യുമെന്റിനായി നേറ്റീവ് പ്രിന്റ് ഡയലോഗ് തുറക്കുക"
+  },
+  "btnRemove": {
+    "message": "ഘടകങ്ങൾ നീക്കം ചെയ്യുക"
+  },
+  "btnRemoveTitle": {
+    "message": "പ്രിവ്യൂവിൽ നിന്ന് ഇല്ലാതാക്കാൻ ഏത് ഘടകത്തിലും ക്ലിക്ക് ചെയ്യുക"
+  },
+  "btnImages": {
+    "message": "ചിത്രങ്ങൾ"
+  },
+  "btnImagesTitle": {
+    "message": "ചിത്രങ്ങൾ ഓണോ ഓഫോ ചെയ്യുക"
+  },
+  "btnBigger": {
+    "message": "വലിയ ടെക്സ്റ്റ്"
+  },
+  "btnSmaller": {
+    "message": "ചെറിയ ടെക്സ്റ്റ്"
+  },
+  "btnClose": {
+    "message": "അടയ്ക്കുക"
+  },
+  "btnCloseTitle": {
+    "message": "വൃത്തിയുള്ള പ്രിവ്യൂ അടയ്ക്കുക"
+  },
+  "noArticle": {
+    "message": "ഈ പേജിൽ വായിക്കാവുന്ന ലേഖനമൊന്നും കണ്ടെത്തിയില്ല."
+  },
+  "mountFailed": {
+    "message": "വൃത്തിയുള്ള പ്രിവ്യൂ നിർമ്മിക്കാൻ കഴിഞ്ഞില്ല."
+  },
+  "optHeading": {
+    "message": "Clean Print ക്രമീകരണങ്ങൾ"
+  },
+  "optSub": {
+    "message": "എല്ലാം പ്രാദേശികമായി പ്രവർത്തിക്കുന്നു. അക്കൗണ്ട് വേണ്ട, സെർവറുകളില്ല, ഡാറ്റ നിങ്ങളുടെ ബ്രൗസർ വിട്ടുപോകുന്നില്ല."
+  },
+  "secDefaults": {
+    "message": "സ്ഥിരസ്ഥിതി പ്രിന്റ് ശൈലി"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro സേവ് ചെയ്ത ഓരോ സൈറ്റിനുമുള്ള വൃത്തിയാക്കൽ നിയമങ്ങൾ, ഹെഡർ/ഫൂട്ടർ & വാട്ടർമാർക്ക് ടെംപ്ലേറ്റുകൾ, സമ്മതത്തോടെയുള്ള ബാച്ച്-PDF പാത്ത് എന്നിവ അൺലോക്ക് ചെയ്യുന്നു. സൗജന്യ ടൂൾ എന്നും പൂർണ്ണമായി പ്രവർത്തനക്ഷമമായി തുടരുന്നു."
+  },
+  "lblLicense": {
+    "message": "ലൈസൻസ് കീ"
+  },
+  "rulesTitle": {
+    "message": "സേവ് ചെയ്ത ഓരോ സൈറ്റിനുമുള്ള നിയമങ്ങൾ"
+  },
+  "btnAddRule": {
+    "message": "നിലവിലെ സൈറ്റ് ചേർക്കുക"
+  },
+  "rulesEmpty": {
+    "message": "ഇതുവരെ സേവ് ചെയ്ത നിയമങ്ങളൊന്നുമില്ല."
+  },
+  "btnDelete": {
+    "message": "ഇല്ലാതാക്കുക"
+  },
+  "secPrivacy": {
+    "message": "സ്വകാര്യത"
+  },
+  "privacyBody": {
+    "message": "Clean Print ഒരു ഡാറ്റയും ശേഖരിക്കുന്നില്ല. നിങ്ങൾ Declutter ക്ലിക്ക് ചെയ്യുമ്പോൾ മാത്രം ഇത് നിലവിലെ പേജ് വായിക്കുന്നു, പൂർണ്ണമായും നിങ്ങളുടെ ഉപകരണത്തിൽ പ്രോസസ്സ് ചെയ്യുന്നു, ഒരിക്കലും ഒരു നെറ്റ്‌വർക്ക് അഭ്യർത്ഥനയും നടത്തുന്നില്ല."
+  },
+  "privacyLink": {
+    "message": "മുഴുവൻ സ്വകാര്യതാ നയവും വായിക്കുക"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - บันทึกเป็น PDF โดยไม่มีสิ่งรกตา",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "ลบโฆษณาและสิ่งรกตาด้วยคลิกเดียว ทำงานในเครื่อง 100% พิมพ์หรือบันทึก PDF สะอาด ไม่ต้องมีบัญชี ไม่มีเซิร์ฟเวอร์ ไม่มีการติดตาม",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "ทำงานภายในเครื่อง 100% — ไม่มีอะไรออกไปจากเบราว์เซอร์ของคุณ"
+  },
+  "btnDeclutter": {
+    "message": "จัดหน้านี้ให้สะอาด"
+  },
+  "lblFontSize": {
+    "message": "ขนาดตัวอักษร"
+  },
+  "lblRemoveImages": {
+    "message": "ลบรูปภาพ"
+  },
+  "lblPageBreaks": {
+    "message": "แบ่งแต่ละส่วนขึ้นหน้าใหม่"
+  },
+  "lblTheme": {
+    "message": "ธีม"
+  },
+  "themeLight": {
+    "message": "สว่าง"
+  },
+  "themeSepia": {
+    "message": "ซีเปีย"
+  },
+  "footerLocal": {
+    "message": "เป็นส่วนตัว · ภายในเครื่อง · ไม่ต้องมีบัญชี"
+  },
+  "footerOptions": {
+    "message": "การตั้งค่าเพิ่มเติม"
+  },
+  "statusOpening": {
+    "message": "กำลังเปิดตัวอย่างที่สะอาด…"
+  },
+  "errRestricted": {
+    "message": "หน้านี้ไม่สามารถจัดให้สะอาดได้ (หน้าของเบราว์เซอร์หรือหน้าสโตร์)"
+  },
+  "errNoTab": {
+    "message": "ไม่พบแท็บที่ใช้งานอยู่"
+  },
+  "errInject": {
+    "message": "ไม่สามารถเปิดตัวอย่างที่สะอาดที่นี่ได้"
+  },
+  "previewTitle": {
+    "message": "ตัวอย่าง Clean Print"
+  },
+  "btnPrint": {
+    "message": "พิมพ์ / บันทึก PDF"
+  },
+  "btnPrintTitle": {
+    "message": "เปิดกล่องโต้ตอบการพิมพ์ของระบบสำหรับเอกสารที่สะอาดนี้"
+  },
+  "btnRemove": {
+    "message": "ลบองค์ประกอบ"
+  },
+  "btnRemoveTitle": {
+    "message": "คลิกองค์ประกอบใดก็ได้เพื่อลบออกจากตัวอย่าง"
+  },
+  "btnImages": {
+    "message": "รูปภาพ"
+  },
+  "btnImagesTitle": {
+    "message": "เปิดหรือปิดรูปภาพ"
+  },
+  "btnBigger": {
+    "message": "ตัวอักษรใหญ่ขึ้น"
+  },
+  "btnSmaller": {
+    "message": "ตัวอักษรเล็กลง"
+  },
+  "btnClose": {
+    "message": "ปิด"
+  },
+  "btnCloseTitle": {
+    "message": "ปิดตัวอย่างที่สะอาด"
+  },
+  "noArticle": {
+    "message": "ไม่พบบทความที่อ่านได้บนหน้านี้"
+  },
+  "mountFailed": {
+    "message": "ไม่สามารถสร้างตัวอย่างที่สะอาดได้"
+  },
+  "optHeading": {
+    "message": "การตั้งค่า Clean Print"
+  },
+  "optSub": {
+    "message": "ทุกอย่างทำงานภายในเครื่อง ไม่ต้องมีบัญชี ไม่มีเซิร์ฟเวอร์ ไม่มีข้อมูลออกไปจากเบราว์เซอร์ของคุณ"
+  },
+  "secDefaults": {
+    "message": "รูปแบบการพิมพ์เริ่มต้น"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro ปลดล็อกกฎการจัดหน้าที่บันทึกไว้ต่อเว็บไซต์ เทมเพลตหัวกระดาษ/ท้ายกระดาษและลายน้ำ และเส้นทางสร้าง PDF แบบชุดที่ยินยอมแล้ว เครื่องมือฟรียังใช้งานได้เต็มรูปแบบตลอดไป"
+  },
+  "lblLicense": {
+    "message": "คีย์ลิขสิทธิ์"
+  },
+  "rulesTitle": {
+    "message": "กฎที่บันทึกไว้ต่อเว็บไซต์"
+  },
+  "btnAddRule": {
+    "message": "เพิ่มเว็บไซต์ปัจจุบัน"
+  },
+  "rulesEmpty": {
+    "message": "ยังไม่มีกฎที่บันทึกไว้"
+  },
+  "btnDelete": {
+    "message": "ลบ"
+  },
+  "secPrivacy": {
+    "message": "ความเป็นส่วนตัว"
+  },
+  "privacyBody": {
+    "message": "Clean Print ไม่เก็บข้อมูลใด ๆ มันอ่านหน้าปัจจุบันเฉพาะตอนที่คุณคลิก จัดให้สะอาด ประมวลผลทั้งหมดบนอุปกรณ์ของคุณ และไม่เคยส่งคำขอผ่านเครือข่าย"
+  },
+  "privacyLink": {
+    "message": "อ่านนโยบายความเป็นส่วนตัวฉบับเต็ม"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

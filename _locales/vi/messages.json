@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Lưu thành PDF không lộn xộn",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Dọn dẹp trang bằng một cú nhấp: loại bỏ quảng cáo và nội dung lộn xộn, rồi in hoặc lưu PDF gọn gàng. 100% cục bộ, không theo dõi.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% cục bộ — không gì rời khỏi trình duyệt của bạn."
+  },
+  "btnDeclutter": {
+    "message": "Dọn dẹp trang này"
+  },
+  "lblFontSize": {
+    "message": "Cỡ chữ"
+  },
+  "lblRemoveImages": {
+    "message": "Xóa hình ảnh"
+  },
+  "lblPageBreaks": {
+    "message": "Ngắt các mục sang trang mới"
+  },
+  "lblTheme": {
+    "message": "Giao diện"
+  },
+  "themeLight": {
+    "message": "Sáng"
+  },
+  "themeSepia": {
+    "message": "Nâu vàng"
+  },
+  "footerLocal": {
+    "message": "Riêng tư · cục bộ · không cần tài khoản"
+  },
+  "footerOptions": {
+    "message": "Thêm cài đặt"
+  },
+  "statusOpening": {
+    "message": "Đang mở bản xem trước gọn gàng…"
+  },
+  "errRestricted": {
+    "message": "Không thể dọn dẹp trang này (trang trình duyệt hoặc cửa hàng)."
+  },
+  "errNoTab": {
+    "message": "Không tìm thấy tab đang hoạt động."
+  },
+  "errInject": {
+    "message": "Không thể mở bản xem trước gọn gàng tại đây."
+  },
+  "previewTitle": {
+    "message": "Bản xem trước Clean Print"
+  },
+  "btnPrint": {
+    "message": "In / Lưu PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Mở hộp thoại in gốc cho tài liệu gọn gàng này"
+  },
+  "btnRemove": {
+    "message": "Xóa các phần tử"
+  },
+  "btnRemoveTitle": {
+    "message": "Nhấp vào bất kỳ phần tử nào để xóa khỏi bản xem trước"
+  },
+  "btnImages": {
+    "message": "Hình ảnh"
+  },
+  "btnImagesTitle": {
+    "message": "Bật hoặc tắt hình ảnh"
+  },
+  "btnBigger": {
+    "message": "Chữ to hơn"
+  },
+  "btnSmaller": {
+    "message": "Chữ nhỏ hơn"
+  },
+  "btnClose": {
+    "message": "Đóng"
+  },
+  "btnCloseTitle": {
+    "message": "Đóng bản xem trước gọn gàng"
+  },
+  "noArticle": {
+    "message": "Không tìm thấy bài viết dễ đọc nào trên trang này."
+  },
+  "mountFailed": {
+    "message": "Không thể tạo bản xem trước gọn gàng."
+  },
+  "optHeading": {
+    "message": "Cài đặt Clean Print"
+  },
+  "optSub": {
+    "message": "Mọi thứ chạy cục bộ. Không cần tài khoản, không máy chủ, không dữ liệu nào rời khỏi trình duyệt của bạn."
+  },
+  "secDefaults": {
+    "message": "Kiểu in mặc định"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro mở khóa các quy tắc dọn dẹp được lưu theo từng trang, mẫu đầu trang/chân trang & hình mờ, và đường dẫn PDF hàng loạt có sự đồng ý. Công cụ miễn phí vẫn hoạt động đầy đủ mãi mãi."
+  },
+  "lblLicense": {
+    "message": "Khóa bản quyền"
+  },
+  "rulesTitle": {
+    "message": "Quy tắc đã lưu theo trang"
+  },
+  "btnAddRule": {
+    "message": "Thêm trang hiện tại"
+  },
+  "rulesEmpty": {
+    "message": "Chưa có quy tắc nào được lưu."
+  },
+  "btnDelete": {
+    "message": "Xóa"
+  },
+  "secPrivacy": {
+    "message": "Quyền riêng tư"
+  },
+  "privacyBody": {
+    "message": "Clean Print không thu thập dữ liệu nào. Nó chỉ đọc trang hiện tại khi bạn nhấp Dọn dẹp, xử lý hoàn toàn trên thiết bị của bạn, và không bao giờ gửi yêu cầu mạng."
+  },
+  "privacyLink": {
+    "message": "Đọc chính sách quyền riêng tư đầy đủ"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

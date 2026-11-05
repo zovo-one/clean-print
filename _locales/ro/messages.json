@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Salvează ca PDF fără dezordine",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Curăță pagina dintr-un clic: elimină reclamele și dezordinea, apoi tipărește sau salvează un PDF curat. 100% local, fără urmărire.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% local — nimic nu părăsește browserul tău."
+  },
+  "btnDeclutter": {
+    "message": "Curăță această pagină"
+  },
+  "lblFontSize": {
+    "message": "Dimensiunea fontului"
+  },
+  "lblRemoveImages": {
+    "message": "Elimină imaginile"
+  },
+  "lblPageBreaks": {
+    "message": "Împarte secțiunile pe pagini noi"
+  },
+  "lblTheme": {
+    "message": "Temă"
+  },
+  "themeLight": {
+    "message": "Luminoasă"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "footerLocal": {
+    "message": "Privat · local · fără cont"
+  },
+  "footerOptions": {
+    "message": "Mai multe setări"
+  },
+  "statusOpening": {
+    "message": "Se deschide previzualizarea curată…"
+  },
+  "errRestricted": {
+    "message": "Această pagină nu poate fi curățată (pagină de browser sau de magazin)."
+  },
+  "errNoTab": {
+    "message": "Nu s-a găsit nicio filă activă."
+  },
+  "errInject": {
+    "message": "Previzualizarea curată nu a putut fi deschisă aici."
+  },
+  "previewTitle": {
+    "message": "Previzualizare Clean Print"
+  },
+  "btnPrint": {
+    "message": "Tipărește / Salvează PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Deschide dialogul nativ de tipărire pentru acest document curat"
+  },
+  "btnRemove": {
+    "message": "Elimină elemente"
+  },
+  "btnRemoveTitle": {
+    "message": "Fă clic pe orice element pentru a-l șterge din previzualizare"
+  },
+  "btnImages": {
+    "message": "Imagini"
+  },
+  "btnImagesTitle": {
+    "message": "Comută imaginile activat sau dezactivat"
+  },
+  "btnBigger": {
+    "message": "Text mai mare"
+  },
+  "btnSmaller": {
+    "message": "Text mai mic"
+  },
+  "btnClose": {
+    "message": "Închide"
+  },
+  "btnCloseTitle": {
+    "message": "Închide previzualizarea curată"
+  },
+  "noArticle": {
+    "message": "Nu s-a găsit niciun articol lizibil pe această pagină."
+  },
+  "mountFailed": {
+    "message": "Previzualizarea curată nu a putut fi construită."
+  },
+  "optHeading": {
+    "message": "Setări Clean Print"
+  },
+  "optSub": {
+    "message": "Totul rulează local. Fără cont, fără servere, nicio dată nu părăsește browserul tău."
+  },
+  "secDefaults": {
+    "message": "Stil de tipărire implicit"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro deblochează reguli de curățare salvate per site, șabloane de antet/subsol și filigran, precum și traseul PDF în lot cu consimțământ. Instrumentul gratuit rămâne pe deplin funcțional pentru totdeauna."
+  },
+  "lblLicense": {
+    "message": "Cheie de licență"
+  },
+  "rulesTitle": {
+    "message": "Reguli salvate per site"
+  },
+  "btnAddRule": {
+    "message": "Adaugă site-ul curent"
+  },
+  "rulesEmpty": {
+    "message": "Încă nicio regulă salvată."
+  },
+  "btnDelete": {
+    "message": "Șterge"
+  },
+  "secPrivacy": {
+    "message": "Confidențialitate"
+  },
+  "privacyBody": {
+    "message": "Clean Print nu colectează date. Citește pagina curentă doar când faci clic pe Curăță, o procesează în întregime pe dispozitivul tău și nu face niciodată vreo solicitare de rețea."
+  },
+  "privacyLink": {
+    "message": "Citește politica de confidențialitate completă"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

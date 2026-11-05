@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - saglabājiet kā PDF bez liekā",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Viena klikšķa, 100% lokāla sakārtošana, noņem reklāmas un lieko, tad drukā vai saglabā tīru PDF. Bez konta un izsekošanas.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% lokāli — nekas nepamet jūsu pārlūku."
+  },
+  "btnDeclutter": {
+    "message": "Sakārtot šo lapu"
+  },
+  "lblFontSize": {
+    "message": "Fonta lielums"
+  },
+  "lblRemoveImages": {
+    "message": "Noņemt attēlus"
+  },
+  "lblPageBreaks": {
+    "message": "Sadalīt sadaļas jaunās lapās"
+  },
+  "lblTheme": {
+    "message": "Motīvs"
+  },
+  "themeLight": {
+    "message": "Gaišs"
+  },
+  "themeSepia": {
+    "message": "Sēpija"
+  },
+  "footerLocal": {
+    "message": "Privāti · lokāli · bez konta"
+  },
+  "footerOptions": {
+    "message": "Vairāk iestatījumu"
+  },
+  "statusOpening": {
+    "message": "Notiek tīra priekšskatījuma atvēršana…"
+  },
+  "errRestricted": {
+    "message": "Šo lapu nevar sakārtot (pārlūka vai veikala lapa)."
+  },
+  "errNoTab": {
+    "message": "Nav atrasta aktīva cilne."
+  },
+  "errInject": {
+    "message": "Šeit neizdevās atvērt tīro priekšskatījumu."
+  },
+  "previewTitle": {
+    "message": "Clean Print priekšskatījums"
+  },
+  "btnPrint": {
+    "message": "Drukāt / Saglabāt PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Atvērt šī tīrā dokumenta vietējo drukāšanas dialoglodziņu"
+  },
+  "btnRemove": {
+    "message": "Noņemt elementus"
+  },
+  "btnRemoveTitle": {
+    "message": "Noklikšķiniet uz jebkura elementa, lai to izdzēstu no priekšskatījuma"
+  },
+  "btnImages": {
+    "message": "Attēli"
+  },
+  "btnImagesTitle": {
+    "message": "Ieslēgt vai izslēgt attēlus"
+  },
+  "btnBigger": {
+    "message": "Lielāks teksts"
+  },
+  "btnSmaller": {
+    "message": "Mazāks teksts"
+  },
+  "btnClose": {
+    "message": "Aizvērt"
+  },
+  "btnCloseTitle": {
+    "message": "Aizvērt tīro priekšskatījumu"
+  },
+  "noArticle": {
+    "message": "Šajā lapā nav atrasts lasāms raksts."
+  },
+  "mountFailed": {
+    "message": "Neizdevās izveidot tīro priekšskatījumu."
+  },
+  "optHeading": {
+    "message": "Clean Print iestatījumi"
+  },
+  "optSub": {
+    "message": "Viss darbojas lokāli. Bez konta, bez serveriem, neviens dati nepamet jūsu pārlūku."
+  },
+  "secDefaults": {
+    "message": "Noklusējuma drukas stils"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro atbloķē saglabātus katras vietnes sakārtošanas noteikumus, galvenes/kājenes un ūdenszīmju veidnes, kā arī apstiprināto sērijveida PDF ceļu. Bezmaksas rīks paliek pilnībā funkcionāls mūžīgi."
+  },
+  "lblLicense": {
+    "message": "Licences atslēga"
+  },
+  "rulesTitle": {
+    "message": "Saglabātie katras vietnes noteikumi"
+  },
+  "btnAddRule": {
+    "message": "Pievienot pašreizējo vietni"
+  },
+  "rulesEmpty": {
+    "message": "Vēl nav saglabātu noteikumu."
+  },
+  "btnDelete": {
+    "message": "Dzēst"
+  },
+  "secPrivacy": {
+    "message": "Privātums"
+  },
+  "privacyBody": {
+    "message": "Clean Print nevāc nekādus datus. Tas nolasa pašreizējo lapu tikai tad, kad noklikšķināt Sakārtot, apstrādā to pilnībā jūsu ierīcē un nekad neveic tīkla pieprasījumu."
+  },
+  "privacyLink": {
+    "message": "Lasīt pilno privātuma politiku"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

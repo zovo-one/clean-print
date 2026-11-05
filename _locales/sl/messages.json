@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - shranite kot PDF brez navlake",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Odstranjevanje navlake z enim klikom, 100% lokalno, odstranite oglase, nato natisnite ali shranite čist PDF. Brez sledenja.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100 % lokalno — nič ne zapusti vašega brskalnika."
+  },
+  "btnDeclutter": {
+    "message": "Odstrani navlako s te strani"
+  },
+  "lblFontSize": {
+    "message": "Velikost pisave"
+  },
+  "lblRemoveImages": {
+    "message": "Odstrani slike"
+  },
+  "lblPageBreaks": {
+    "message": "Razdeli razdelke na nove strani"
+  },
+  "lblTheme": {
+    "message": "Tema"
+  },
+  "themeLight": {
+    "message": "Svetla"
+  },
+  "themeSepia": {
+    "message": "Sepija"
+  },
+  "footerLocal": {
+    "message": "Zasebno · lokalno · brez računa"
+  },
+  "footerOptions": {
+    "message": "Več nastavitev"
+  },
+  "statusOpening": {
+    "message": "Odpiranje čistega predogleda…"
+  },
+  "errRestricted": {
+    "message": "S te strani ni mogoče odstraniti navlake (stran brskalnika ali trgovine)."
+  },
+  "errNoTab": {
+    "message": "Ni bilo mogoče najti aktivnega zavihka."
+  },
+  "errInject": {
+    "message": "Tukaj ni bilo mogoče odpreti čistega predogleda."
+  },
+  "previewTitle": {
+    "message": "Predogled Clean Print"
+  },
+  "btnPrint": {
+    "message": "Natisni / shrani PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Odpri izvirno pogovorno okno za tiskanje tega čistega dokumenta"
+  },
+  "btnRemove": {
+    "message": "Odstrani elemente"
+  },
+  "btnRemoveTitle": {
+    "message": "Kliknite kateri koli element, da ga izbrišete iz predogleda"
+  },
+  "btnImages": {
+    "message": "Slike"
+  },
+  "btnImagesTitle": {
+    "message": "Vklopi ali izklopi slike"
+  },
+  "btnBigger": {
+    "message": "Večje besedilo"
+  },
+  "btnSmaller": {
+    "message": "Manjše besedilo"
+  },
+  "btnClose": {
+    "message": "Zapri"
+  },
+  "btnCloseTitle": {
+    "message": "Zapri čisti predogled"
+  },
+  "noArticle": {
+    "message": "Na tej strani ni bilo najdenega berljivega članka."
+  },
+  "mountFailed": {
+    "message": "Ni bilo mogoče zgraditi čistega predogleda."
+  },
+  "optHeading": {
+    "message": "Nastavitve Clean Print"
+  },
+  "optSub": {
+    "message": "Vse teče lokalno. Brez računa, brez strežnikov, noben podatek ne zapusti vašega brskalnika."
+  },
+  "secDefaults": {
+    "message": "Privzeti slog tiskanja"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro odklene shranjena pravila za odstranjevanje navlake po spletnih mestih, predloge za glavo/nogo in vodni žig ter potrjeno pot za paketni PDF. Brezplačno orodje ostaja v celoti delujoče za vedno."
+  },
+  "lblLicense": {
+    "message": "Licenčni ključ"
+  },
+  "rulesTitle": {
+    "message": "Shranjena pravila po spletnih mestih"
+  },
+  "btnAddRule": {
+    "message": "Dodaj trenutno spletno mesto"
+  },
+  "rulesEmpty": {
+    "message": "Še ni shranjenih pravil."
+  },
+  "btnDelete": {
+    "message": "Izbriši"
+  },
+  "secPrivacy": {
+    "message": "Zasebnost"
+  },
+  "privacyBody": {
+    "message": "Clean Print ne zbira nobenih podatkov. Trenutno stran prebere samo, ko kliknete Odstrani navlako, jo v celoti obdela na vaši napravi in nikoli ne pošlje omrežne zahteve."
+  },
+  "privacyLink": {
+    "message": "Preberite celoten pravilnik o zasebnosti"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

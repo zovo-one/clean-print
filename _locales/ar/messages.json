@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - احفظ كملف PDF بلا فوضى",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "إزالة الفوضى بنقرة واحدة ومحليًا 100%, أزل الإعلانات والفوضى ثم اطبع أو احفظ ملف PDF نظيفًا. بلا حساب، بلا خوادم، بلا تتبّع.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "محلي 100% — لا شيء يغادر متصفحك."
+  },
+  "btnDeclutter": {
+    "message": "أزل فوضى هذه الصفحة"
+  },
+  "lblFontSize": {
+    "message": "حجم الخط"
+  },
+  "lblRemoveImages": {
+    "message": "إزالة الصور"
+  },
+  "lblPageBreaks": {
+    "message": "توزيع الأقسام على صفحات جديدة"
+  },
+  "lblTheme": {
+    "message": "السمة"
+  },
+  "themeLight": {
+    "message": "فاتح"
+  },
+  "themeSepia": {
+    "message": "بنّي داكن"
+  },
+  "footerLocal": {
+    "message": "خاص · محلي · بلا حساب"
+  },
+  "footerOptions": {
+    "message": "المزيد من الإعدادات"
+  },
+  "statusOpening": {
+    "message": "جارٍ فتح المعاينة النظيفة…"
+  },
+  "errRestricted": {
+    "message": "لا يمكن إزالة فوضى هذه الصفحة (صفحة متصفح أو متجر)."
+  },
+  "errNoTab": {
+    "message": "لم يُعثر على علامة تبويب نشطة."
+  },
+  "errInject": {
+    "message": "تعذّر فتح المعاينة النظيفة هنا."
+  },
+  "previewTitle": {
+    "message": "معاينة Clean Print"
+  },
+  "btnPrint": {
+    "message": "طباعة / حفظ PDF"
+  },
+  "btnPrintTitle": {
+    "message": "افتح مربّع حوار الطباعة الأصلي لهذا المستند النظيف"
+  },
+  "btnRemove": {
+    "message": "إزالة عناصر"
+  },
+  "btnRemoveTitle": {
+    "message": "انقر على أي عنصر لحذفه من المعاينة"
+  },
+  "btnImages": {
+    "message": "الصور"
+  },
+  "btnImagesTitle": {
+    "message": "تشغيل الصور أو إيقافها"
+  },
+  "btnBigger": {
+    "message": "تكبير النص"
+  },
+  "btnSmaller": {
+    "message": "تصغير النص"
+  },
+  "btnClose": {
+    "message": "إغلاق"
+  },
+  "btnCloseTitle": {
+    "message": "أغلق المعاينة النظيفة"
+  },
+  "noArticle": {
+    "message": "لم يُعثر على مقال قابل للقراءة في هذه الصفحة."
+  },
+  "mountFailed": {
+    "message": "تعذّر إنشاء المعاينة النظيفة."
+  },
+  "optHeading": {
+    "message": "إعدادات Clean Print"
+  },
+  "optSub": {
+    "message": "كل شيء يعمل محليًا. بلا حساب، بلا خوادم، ولا تغادر أي بيانات متصفحك."
+  },
+  "secDefaults": {
+    "message": "نمط الطباعة الافتراضي"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "يفتح Pro قواعد إزالة الفوضى المحفوظة لكل موقع، وقوالب الترويسة والتذييل والعلامة المائية، ومسار PDF الجماعي المُوافَق عليه. تبقى الأداة المجانية كاملة الوظائف إلى الأبد."
+  },
+  "lblLicense": {
+    "message": "مفتاح الترخيص"
+  },
+  "rulesTitle": {
+    "message": "القواعد المحفوظة لكل موقع"
+  },
+  "btnAddRule": {
+    "message": "إضافة الموقع الحالي"
+  },
+  "rulesEmpty": {
+    "message": "لا توجد قواعد محفوظة بعد."
+  },
+  "btnDelete": {
+    "message": "حذف"
+  },
+  "secPrivacy": {
+    "message": "الخصوصية"
+  },
+  "privacyBody": {
+    "message": "لا يجمع Clean Print أي بيانات. يقرأ الصفحة الحالية فقط عند نقرك على إزالة الفوضى، ويعالجها بالكامل على جهازك، ولا يُجري أي طلب شبكي أبدًا."
+  },
+  "privacyLink": {
+    "message": "اقرأ سياسة الخصوصية كاملة"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

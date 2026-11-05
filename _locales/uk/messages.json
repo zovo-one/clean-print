@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - збереження у PDF без зайвого",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Очищення в один клік, 100% локально, приберіть рекламу й безлад, роздрукуйте або збережіть чистий PDF. Без акаунтів і відстеження.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% локально — нічого не покидає ваш браузер."
+  },
+  "btnDeclutter": {
+    "message": "Очистити цю сторінку"
+  },
+  "lblFontSize": {
+    "message": "Розмір шрифту"
+  },
+  "lblRemoveImages": {
+    "message": "Прибрати зображення"
+  },
+  "lblPageBreaks": {
+    "message": "Розбивати розділи на нові сторінки"
+  },
+  "lblTheme": {
+    "message": "Тема"
+  },
+  "themeLight": {
+    "message": "Світла"
+  },
+  "themeSepia": {
+    "message": "Сепія"
+  },
+  "footerLocal": {
+    "message": "Приватно · локально · без облікового запису"
+  },
+  "footerOptions": {
+    "message": "Більше налаштувань"
+  },
+  "statusOpening": {
+    "message": "Відкриваємо чистий перегляд…"
+  },
+  "errRestricted": {
+    "message": "Цю сторінку не можна очистити (сторінка браузера чи магазину)."
+  },
+  "errNoTab": {
+    "message": "Активну вкладку не знайдено."
+  },
+  "errInject": {
+    "message": "Не вдалося відкрити чистий перегляд тут."
+  },
+  "previewTitle": {
+    "message": "Перегляд Clean Print"
+  },
+  "btnPrint": {
+    "message": "Друк / Зберегти PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Відкрити стандартне вікно друку для цього чистого документа"
+  },
+  "btnRemove": {
+    "message": "Прибрати елементи"
+  },
+  "btnRemoveTitle": {
+    "message": "Клацніть будь-який елемент, щоб видалити його з перегляду"
+  },
+  "btnImages": {
+    "message": "Зображення"
+  },
+  "btnImagesTitle": {
+    "message": "Увімкнути або вимкнути зображення"
+  },
+  "btnBigger": {
+    "message": "Більший текст"
+  },
+  "btnSmaller": {
+    "message": "Менший текст"
+  },
+  "btnClose": {
+    "message": "Закрити"
+  },
+  "btnCloseTitle": {
+    "message": "Закрити чистий перегляд"
+  },
+  "noArticle": {
+    "message": "На цій сторінці не знайдено читабельної статті."
+  },
+  "mountFailed": {
+    "message": "Не вдалося побудувати чистий перегляд."
+  },
+  "optHeading": {
+    "message": "Налаштування Clean Print"
+  },
+  "optSub": {
+    "message": "Усе працює локально. Без облікового запису, серверів, і жодні дані не покидають ваш браузер."
+  },
+  "secDefaults": {
+    "message": "Стиль друку за замовчуванням"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro відкриває збережені правила очищення для кожного сайту, шаблони колонтитулів і водяних знаків, а також погоджений пакетний експорт у PDF. Безкоштовний інструмент залишається повністю робочим назавжди."
+  },
+  "lblLicense": {
+    "message": "Ліцензійний ключ"
+  },
+  "rulesTitle": {
+    "message": "Збережені правила для сайтів"
+  },
+  "btnAddRule": {
+    "message": "Додати поточний сайт"
+  },
+  "rulesEmpty": {
+    "message": "Ще немає збережених правил."
+  },
+  "btnDelete": {
+    "message": "Видалити"
+  },
+  "secPrivacy": {
+    "message": "Конфіденційність"
+  },
+  "privacyBody": {
+    "message": "Clean Print не збирає жодних даних. Він читає поточну сторінку лише коли ви натискаєте «Очистити», обробляє її повністю на вашому пристрої й ніколи не робить мережевих запитів."
+  },
+  "privacyLink": {
+    "message": "Читати повну політику конфіденційності"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

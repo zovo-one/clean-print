@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - 儲存為 PDF，去除雜亂內容",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "一鍵、100% 本機整理, 移除廣告與雜亂內容，再列印或儲存為乾淨的 PDF。免帳號、無伺服器、不追蹤。",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% 本機 — 資料絕不離開你的瀏覽器。"
+  },
+  "btnDeclutter": {
+    "message": "整理此頁面"
+  },
+  "lblFontSize": {
+    "message": "字型大小"
+  },
+  "lblRemoveImages": {
+    "message": "移除圖片"
+  },
+  "lblPageBreaks": {
+    "message": "將各段落分至新頁"
+  },
+  "lblTheme": {
+    "message": "主題"
+  },
+  "themeLight": {
+    "message": "淺色"
+  },
+  "themeSepia": {
+    "message": "復古棕"
+  },
+  "footerLocal": {
+    "message": "私密 · 本機 · 免帳號"
+  },
+  "footerOptions": {
+    "message": "更多設定"
+  },
+  "statusOpening": {
+    "message": "正在開啟乾淨預覽…"
+  },
+  "errRestricted": {
+    "message": "此頁面無法整理（瀏覽器或商店頁面）。"
+  },
+  "errNoTab": {
+    "message": "找不到使用中的分頁。"
+  },
+  "errInject": {
+    "message": "無法在此開啟乾淨預覽。"
+  },
+  "previewTitle": {
+    "message": "Clean Print 預覽"
+  },
+  "btnPrint": {
+    "message": "列印／儲存 PDF"
+  },
+  "btnPrintTitle": {
+    "message": "為此乾淨文件開啟原生列印對話框"
+  },
+  "btnRemove": {
+    "message": "移除元素"
+  },
+  "btnRemoveTitle": {
+    "message": "點擊任何元素即可從預覽中刪除"
+  },
+  "btnImages": {
+    "message": "圖片"
+  },
+  "btnImagesTitle": {
+    "message": "開啟或關閉圖片"
+  },
+  "btnBigger": {
+    "message": "放大文字"
+  },
+  "btnSmaller": {
+    "message": "縮小文字"
+  },
+  "btnClose": {
+    "message": "關閉"
+  },
+  "btnCloseTitle": {
+    "message": "關閉乾淨預覽"
+  },
+  "noArticle": {
+    "message": "此頁面找不到可閱讀的文章。"
+  },
+  "mountFailed": {
+    "message": "無法建立乾淨預覽。"
+  },
+  "optHeading": {
+    "message": "Clean Print 設定"
+  },
+  "optSub": {
+    "message": "所有作業都在本機執行。免帳號、無伺服器，資料絕不離開你的瀏覽器。"
+  },
+  "secDefaults": {
+    "message": "預設列印樣式"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro 解鎖已儲存的各網站整理規則、頁首／頁尾與浮水印範本，以及經同意的批次 PDF 流程。免費工具將永久保持完整功能。"
+  },
+  "lblLicense": {
+    "message": "授權金鑰"
+  },
+  "rulesTitle": {
+    "message": "已儲存的各網站規則"
+  },
+  "btnAddRule": {
+    "message": "新增目前網站"
+  },
+  "rulesEmpty": {
+    "message": "尚未儲存任何規則。"
+  },
+  "btnDelete": {
+    "message": "刪除"
+  },
+  "secPrivacy": {
+    "message": "隱私權"
+  },
+  "privacyBody": {
+    "message": "Clean Print 不收集任何資料。它僅在你點擊「整理」時讀取目前頁面，完全在你的裝置上處理，且絕不發出網路請求。"
+  },
+  "privacyLink": {
+    "message": "閱讀完整隱私權政策"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

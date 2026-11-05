@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - išsaugokite PDF be netvarkos",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Vienu paspaudimu pašalinkite reklamas ir netvarką, tada spausdinkite ar išsaugokite švarų PDF. 100 % vietinis, be sekimo.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100 % vietinis — niekas nepalieka jūsų naršyklės."
+  },
+  "btnDeclutter": {
+    "message": "Išvalyti šį puslapį"
+  },
+  "lblFontSize": {
+    "message": "Šrifto dydis"
+  },
+  "lblRemoveImages": {
+    "message": "Pašalinti paveikslėlius"
+  },
+  "lblPageBreaks": {
+    "message": "Skaidyti skyrius į naujus puslapius"
+  },
+  "lblTheme": {
+    "message": "Tema"
+  },
+  "themeLight": {
+    "message": "Šviesi"
+  },
+  "themeSepia": {
+    "message": "Sepija"
+  },
+  "footerLocal": {
+    "message": "Privatu · vietinis · be paskyros"
+  },
+  "footerOptions": {
+    "message": "Daugiau nustatymų"
+  },
+  "statusOpening": {
+    "message": "Atveriama švari peržiūra…"
+  },
+  "errRestricted": {
+    "message": "Šio puslapio negalima išvalyti (naršyklės arba parduotuvės puslapis)."
+  },
+  "errNoTab": {
+    "message": "Nerastas aktyvus skirtukas."
+  },
+  "errInject": {
+    "message": "Nepavyko čia atverti švarios peržiūros."
+  },
+  "previewTitle": {
+    "message": "Clean Print peržiūra"
+  },
+  "btnPrint": {
+    "message": "Spausdinti / išsaugoti PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Atverti savąjį spausdinimo dialogą šiam švariam dokumentui"
+  },
+  "btnRemove": {
+    "message": "Pašalinti elementus"
+  },
+  "btnRemoveTitle": {
+    "message": "Spustelėkite bet kurį elementą, kad pašalintumėte jį iš peržiūros"
+  },
+  "btnImages": {
+    "message": "Paveikslėliai"
+  },
+  "btnImagesTitle": {
+    "message": "Įjungti arba išjungti paveikslėlius"
+  },
+  "btnBigger": {
+    "message": "Didesnis tekstas"
+  },
+  "btnSmaller": {
+    "message": "Mažesnis tekstas"
+  },
+  "btnClose": {
+    "message": "Užverti"
+  },
+  "btnCloseTitle": {
+    "message": "Užverti švarią peržiūrą"
+  },
+  "noArticle": {
+    "message": "Šiame puslapyje nerasta skaitomo straipsnio."
+  },
+  "mountFailed": {
+    "message": "Nepavyko sukurti švarios peržiūros."
+  },
+  "optHeading": {
+    "message": "Clean Print nustatymai"
+  },
+  "optSub": {
+    "message": "Viskas veikia vietoje. Be paskyros, be serverių, jokie duomenys nepalieka jūsų naršyklės."
+  },
+  "secDefaults": {
+    "message": "Numatytasis spausdinimo stilius"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro atrakina išsaugotas išvalymo taisykles pagal svetainę, antraštės/poraštės ir vandenženklio šablonus bei patvirtintą partijos PDF kelią. Nemokamas įrankis lieka visiškai funkcionalus visam laikui."
+  },
+  "lblLicense": {
+    "message": "Licencijos raktas"
+  },
+  "rulesTitle": {
+    "message": "Išsaugotos taisyklės pagal svetainę"
+  },
+  "btnAddRule": {
+    "message": "Pridėti dabartinę svetainę"
+  },
+  "rulesEmpty": {
+    "message": "Dar nėra išsaugotų taisyklių."
+  },
+  "btnDelete": {
+    "message": "Pašalinti"
+  },
+  "secPrivacy": {
+    "message": "Privatumas"
+  },
+  "privacyBody": {
+    "message": "Clean Print nerenka jokių duomenų. Ji skaito dabartinį puslapį tik kai spustelite Išvalyti, apdoroja jį visiškai jūsų įrenginyje ir niekada neatlieka tinklo užklausos."
+  },
+  "privacyLink": {
+    "message": "Skaityti visą privatumo politiką"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

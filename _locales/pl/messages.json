@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - zapisuj do PDF bez bałaganu",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Usuń reklamy i bałagan jednym kliknięciem, w 100% lokalnie. Wydrukuj lub zapisz czysty PDF. Bez konta, serwerów i śledzenia.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "W 100% lokalnie — nic nie opuszcza Twojej przeglądarki."
+  },
+  "btnDeclutter": {
+    "message": "Uporządkuj tę stronę"
+  },
+  "lblFontSize": {
+    "message": "Rozmiar czcionki"
+  },
+  "lblRemoveImages": {
+    "message": "Usuń obrazy"
+  },
+  "lblPageBreaks": {
+    "message": "Rozdzielaj sekcje na nowe strony"
+  },
+  "lblTheme": {
+    "message": "Motyw"
+  },
+  "themeLight": {
+    "message": "Jasny"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "footerLocal": {
+    "message": "Prywatnie · lokalnie · bez konta"
+  },
+  "footerOptions": {
+    "message": "Więcej ustawień"
+  },
+  "statusOpening": {
+    "message": "Otwieranie czystego podglądu…"
+  },
+  "errRestricted": {
+    "message": "Tej strony nie można uporządkować (strona przeglądarki lub sklepu)."
+  },
+  "errNoTab": {
+    "message": "Nie znaleziono aktywnej karty."
+  },
+  "errInject": {
+    "message": "Nie udało się otworzyć tutaj czystego podglądu."
+  },
+  "previewTitle": {
+    "message": "Podgląd Clean Print"
+  },
+  "btnPrint": {
+    "message": "Drukuj / Zapisz PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Otwórz natywne okno drukowania dla tego czystego dokumentu"
+  },
+  "btnRemove": {
+    "message": "Usuń elementy"
+  },
+  "btnRemoveTitle": {
+    "message": "Kliknij dowolny element, aby usunąć go z podglądu"
+  },
+  "btnImages": {
+    "message": "Obrazy"
+  },
+  "btnImagesTitle": {
+    "message": "Włącz lub wyłącz obrazy"
+  },
+  "btnBigger": {
+    "message": "Większy tekst"
+  },
+  "btnSmaller": {
+    "message": "Mniejszy tekst"
+  },
+  "btnClose": {
+    "message": "Zamknij"
+  },
+  "btnCloseTitle": {
+    "message": "Zamknij czysty podgląd"
+  },
+  "noArticle": {
+    "message": "Nie znaleziono czytelnego artykułu na tej stronie."
+  },
+  "mountFailed": {
+    "message": "Nie udało się zbudować czystego podglądu."
+  },
+  "optHeading": {
+    "message": "Ustawienia Clean Print"
+  },
+  "optSub": {
+    "message": "Wszystko działa lokalnie. Bez konta, bez serwerów, żadne dane nie opuszczają Twojej przeglądarki."
+  },
+  "secDefaults": {
+    "message": "Domyślny styl wydruku"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro odblokowuje zapisane reguły porządkowania dla poszczególnych witryn, szablony nagłówka/stopki i znaku wodnego oraz ścieżkę wsadowego PDF za zgodą. Bezpłatne narzędzie pozostaje w pełni funkcjonalne na zawsze."
+  },
+  "lblLicense": {
+    "message": "Klucz licencyjny"
+  },
+  "rulesTitle": {
+    "message": "Zapisane reguły dla witryn"
+  },
+  "btnAddRule": {
+    "message": "Dodaj bieżącą witrynę"
+  },
+  "rulesEmpty": {
+    "message": "Brak zapisanych reguł."
+  },
+  "btnDelete": {
+    "message": "Usuń"
+  },
+  "secPrivacy": {
+    "message": "Prywatność"
+  },
+  "privacyBody": {
+    "message": "Clean Print nie zbiera żadnych danych. Odczytuje bieżącą stronę tylko po kliknięciu Uporządkuj, przetwarza ją w całości na Twoim urządzeniu i nigdy nie wysyła żądań sieciowych."
+  },
+  "privacyLink": {
+    "message": "Przeczytaj pełną politykę prywatności"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

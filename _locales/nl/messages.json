@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Opslaan als PDF zonder rommel",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Ruim in één klik 100% lokaal op, verwijder advertenties en rommel, print of bewaar een schone PDF. Geen account, geen tracking.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% lokaal — er verlaat niets je browser."
+  },
+  "btnDeclutter": {
+    "message": "Deze pagina opschonen"
+  },
+  "lblFontSize": {
+    "message": "Tekengrootte"
+  },
+  "lblRemoveImages": {
+    "message": "Afbeeldingen verwijderen"
+  },
+  "lblPageBreaks": {
+    "message": "Secties op nieuwe pagina's afbreken"
+  },
+  "lblTheme": {
+    "message": "Thema"
+  },
+  "themeLight": {
+    "message": "Licht"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "footerLocal": {
+    "message": "Privé · lokaal · geen account"
+  },
+  "footerOptions": {
+    "message": "Meer instellingen"
+  },
+  "statusOpening": {
+    "message": "Schone voorvertoning openen…"
+  },
+  "errRestricted": {
+    "message": "Deze pagina kan niet worden opgeschoond (browser- of winkelpagina)."
+  },
+  "errNoTab": {
+    "message": "Geen actief tabblad gevonden."
+  },
+  "errInject": {
+    "message": "Kon de schone voorvertoning hier niet openen."
+  },
+  "previewTitle": {
+    "message": "Clean Print-voorvertoning"
+  },
+  "btnPrint": {
+    "message": "Printen / PDF opslaan"
+  },
+  "btnPrintTitle": {
+    "message": "Open het systeemdialoogvenster voor printen voor dit schone document"
+  },
+  "btnRemove": {
+    "message": "Elementen verwijderen"
+  },
+  "btnRemoveTitle": {
+    "message": "Klik op een element om het uit de voorvertoning te verwijderen"
+  },
+  "btnImages": {
+    "message": "Afbeeldingen"
+  },
+  "btnImagesTitle": {
+    "message": "Afbeeldingen aan of uit zetten"
+  },
+  "btnBigger": {
+    "message": "Grotere tekst"
+  },
+  "btnSmaller": {
+    "message": "Kleinere tekst"
+  },
+  "btnClose": {
+    "message": "Sluiten"
+  },
+  "btnCloseTitle": {
+    "message": "De schone voorvertoning sluiten"
+  },
+  "noArticle": {
+    "message": "Geen leesbaar artikel gevonden op deze pagina."
+  },
+  "mountFailed": {
+    "message": "Kon de schone voorvertoning niet opbouwen."
+  },
+  "optHeading": {
+    "message": "Clean Print-instellingen"
+  },
+  "optSub": {
+    "message": "Alles draait lokaal. Geen account, geen servers, geen gegevens verlaten je browser."
+  },
+  "secDefaults": {
+    "message": "Standaard printstijl"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro ontgrendelt opgeslagen opschoonregels per site, sjablonen voor kop-/voettekst & watermerk, en het pad voor batch-PDF met toestemming. De gratis tool blijft voor altijd volledig functioneel."
+  },
+  "lblLicense": {
+    "message": "Licentiesleutel"
+  },
+  "rulesTitle": {
+    "message": "Opgeslagen regels per site"
+  },
+  "btnAddRule": {
+    "message": "Huidige site toevoegen"
+  },
+  "rulesEmpty": {
+    "message": "Nog geen opgeslagen regels."
+  },
+  "btnDelete": {
+    "message": "Verwijderen"
+  },
+  "secPrivacy": {
+    "message": "Privacy"
+  },
+  "privacyBody": {
+    "message": "Clean Print verzamelt geen gegevens. Het leest de huidige pagina alleen wanneer je op Opschonen klikt, verwerkt deze volledig op je apparaat en doet nooit een netwerkverzoek."
+  },
+  "privacyLink": {
+    "message": "Lees het volledige privacybeleid"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

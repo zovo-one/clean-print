@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "چاپ تمیز - ذخیره به‌صورت PDF بدون شلوغی",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "پاک‌سازی تک‌کلیکی و کاملاً محلی, حذف تبلیغات و شلوغی، سپس چاپ یا ذخیره PDF تمیز. بدون حساب، بدون سرور، بدون ردیابی.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "چاپ تمیز"
+  },
+  "popupTagline": {
+    "message": "۱۰۰٪ محلی — هیچ چیزی از مرورگر شما خارج نمی‌شود."
+  },
+  "btnDeclutter": {
+    "message": "پاک‌سازی این صفحه"
+  },
+  "lblFontSize": {
+    "message": "اندازهٔ قلم"
+  },
+  "lblRemoveImages": {
+    "message": "حذف تصاویر"
+  },
+  "lblPageBreaks": {
+    "message": "شکستن بخش‌ها به صفحه‌های جدید"
+  },
+  "lblTheme": {
+    "message": "پوسته"
+  },
+  "themeLight": {
+    "message": "روشن"
+  },
+  "themeSepia": {
+    "message": "قهوه‌ای کهنه"
+  },
+  "footerLocal": {
+    "message": "خصوصی · محلی · بدون حساب"
+  },
+  "footerOptions": {
+    "message": "تنظیمات بیشتر"
+  },
+  "statusOpening": {
+    "message": "در حال باز کردن پیش‌نمایش تمیز…"
+  },
+  "errRestricted": {
+    "message": "این صفحه قابل پاک‌سازی نیست (صفحهٔ مرورگر یا فروشگاه)."
+  },
+  "errNoTab": {
+    "message": "هیچ زبانهٔ فعالی یافت نشد."
+  },
+  "errInject": {
+    "message": "نتوانستیم پیش‌نمایش تمیز را اینجا باز کنیم."
+  },
+  "previewTitle": {
+    "message": "پیش‌نمایش چاپ تمیز"
+  },
+  "btnPrint": {
+    "message": "چاپ / ذخیرهٔ PDF"
+  },
+  "btnPrintTitle": {
+    "message": "باز کردن کادر چاپ بومی برای این سند تمیز"
+  },
+  "btnRemove": {
+    "message": "حذف عناصر"
+  },
+  "btnRemoveTitle": {
+    "message": "روی هر عنصری کلیک کنید تا از پیش‌نمایش حذف شود"
+  },
+  "btnImages": {
+    "message": "تصاویر"
+  },
+  "btnImagesTitle": {
+    "message": "روشن یا خاموش کردن تصاویر"
+  },
+  "btnBigger": {
+    "message": "متن بزرگ‌تر"
+  },
+  "btnSmaller": {
+    "message": "متن کوچک‌تر"
+  },
+  "btnClose": {
+    "message": "بستن"
+  },
+  "btnCloseTitle": {
+    "message": "بستن پیش‌نمایش تمیز"
+  },
+  "noArticle": {
+    "message": "هیچ مقالهٔ خواندنی در این صفحه یافت نشد."
+  },
+  "mountFailed": {
+    "message": "نتوانستیم پیش‌نمایش تمیز را بسازیم."
+  },
+  "optHeading": {
+    "message": "تنظیمات چاپ تمیز"
+  },
+  "optSub": {
+    "message": "همه چیز به‌صورت محلی اجرا می‌شود. بدون حساب، بدون سرور، و هیچ داده‌ای از مرورگر شما خارج نمی‌شود."
+  },
+  "secDefaults": {
+    "message": "سبک چاپ پیش‌فرض"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro قواعد پاک‌سازی ذخیره‌شده برای هر سایت، قالب‌های سرصفحه/پاصفحه و واترمارک، و مسیر دسته‌ای PDF با رضایت را باز می‌کند. ابزار رایگان برای همیشه کاملاً کارآمد باقی می‌ماند."
+  },
+  "lblLicense": {
+    "message": "کلید مجوز"
+  },
+  "rulesTitle": {
+    "message": "قواعد ذخیره‌شده برای هر سایت"
+  },
+  "btnAddRule": {
+    "message": "افزودن سایت فعلی"
+  },
+  "rulesEmpty": {
+    "message": "هنوز قاعده‌ای ذخیره نشده است."
+  },
+  "btnDelete": {
+    "message": "حذف"
+  },
+  "secPrivacy": {
+    "message": "حریم خصوصی"
+  },
+  "privacyBody": {
+    "message": "چاپ تمیز هیچ داده‌ای جمع‌آوری نمی‌کند. تنها زمانی که روی پاک‌سازی کلیک کنید صفحهٔ فعلی را می‌خواند، آن را کاملاً روی دستگاه شما پردازش می‌کند و هرگز درخواست شبکه‌ای ارسال نمی‌کند."
+  },
+  "privacyLink": {
+    "message": "خواندن سیاست حریم خصوصی کامل"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

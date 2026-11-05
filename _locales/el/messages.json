@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Αποθήκευση ως PDF χωρίς την ακαταστασία",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Καθάρισμα με ένα κλικ, 100% τοπικά, αφαίρεσε διαφημίσεις κι ακαταστασία, εκτύπωσε ή αποθήκευσε καθαρό PDF. Χωρίς παρακολούθηση.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% τοπικά — τίποτα δεν φεύγει από το πρόγραμμα περιήγησής σου."
+  },
+  "btnDeclutter": {
+    "message": "Καθάρισε αυτή τη σελίδα"
+  },
+  "lblFontSize": {
+    "message": "Μέγεθος γραμματοσειράς"
+  },
+  "lblRemoveImages": {
+    "message": "Αφαίρεση εικόνων"
+  },
+  "lblPageBreaks": {
+    "message": "Διαχωρισμός ενοτήτων σε νέες σελίδες"
+  },
+  "lblTheme": {
+    "message": "Θέμα"
+  },
+  "themeLight": {
+    "message": "Φωτεινό"
+  },
+  "themeSepia": {
+    "message": "Σέπια"
+  },
+  "footerLocal": {
+    "message": "Ιδιωτικό · τοπικό · χωρίς λογαριασμό"
+  },
+  "footerOptions": {
+    "message": "Περισσότερες ρυθμίσεις"
+  },
+  "statusOpening": {
+    "message": "Άνοιγμα καθαρής προεπισκόπησης…"
+  },
+  "errRestricted": {
+    "message": "Αυτή η σελίδα δεν μπορεί να καθαριστεί (σελίδα προγράμματος περιήγησης ή καταστήματος)."
+  },
+  "errNoTab": {
+    "message": "Δεν βρέθηκε ενεργή καρτέλα."
+  },
+  "errInject": {
+    "message": "Δεν ήταν δυνατό το άνοιγμα της καθαρής προεπισκόπησης εδώ."
+  },
+  "previewTitle": {
+    "message": "Προεπισκόπηση Clean Print"
+  },
+  "btnPrint": {
+    "message": "Εκτύπωση / Αποθήκευση PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Άνοιγμα του εγγενούς παραθύρου εκτύπωσης για αυτό το καθαρό έγγραφο"
+  },
+  "btnRemove": {
+    "message": "Αφαίρεση στοιχείων"
+  },
+  "btnRemoveTitle": {
+    "message": "Κάνε κλικ σε οποιοδήποτε στοιχείο για να το διαγράψεις από την προεπισκόπηση"
+  },
+  "btnImages": {
+    "message": "Εικόνες"
+  },
+  "btnImagesTitle": {
+    "message": "Εναλλαγή εικόνων ενεργές ή ανενεργές"
+  },
+  "btnBigger": {
+    "message": "Μεγαλύτερο κείμενο"
+  },
+  "btnSmaller": {
+    "message": "Μικρότερο κείμενο"
+  },
+  "btnClose": {
+    "message": "Κλείσιμο"
+  },
+  "btnCloseTitle": {
+    "message": "Κλείσιμο της καθαρής προεπισκόπησης"
+  },
+  "noArticle": {
+    "message": "Δεν βρέθηκε αναγνώσιμο άρθρο σε αυτή τη σελίδα."
+  },
+  "mountFailed": {
+    "message": "Δεν ήταν δυνατή η δημιουργία της καθαρής προεπισκόπησης."
+  },
+  "optHeading": {
+    "message": "Ρυθμίσεις Clean Print"
+  },
+  "optSub": {
+    "message": "Όλα εκτελούνται τοπικά. Χωρίς λογαριασμό, χωρίς διακομιστές, κανένα δεδομένο δεν φεύγει από το πρόγραμμα περιήγησής σου."
+  },
+  "secDefaults": {
+    "message": "Προεπιλεγμένο στυλ εκτύπωσης"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Το Pro ξεκλειδώνει αποθηκευμένους κανόνες καθαρίσματος ανά ιστότοπο, πρότυπα κεφαλίδας/υποσέλιδου & υδατογραφήματος, και τη διαδρομή μαζικής δημιουργίας PDF με τη συγκατάθεσή σου. Το δωρεάν εργαλείο παραμένει πλήρως λειτουργικό για πάντα."
+  },
+  "lblLicense": {
+    "message": "Κλειδί άδειας"
+  },
+  "rulesTitle": {
+    "message": "Αποθηκευμένοι κανόνες ανά ιστότοπο"
+  },
+  "btnAddRule": {
+    "message": "Προσθήκη τρέχοντος ιστότοπου"
+  },
+  "rulesEmpty": {
+    "message": "Δεν υπάρχουν ακόμη αποθηκευμένοι κανόνες."
+  },
+  "btnDelete": {
+    "message": "Διαγραφή"
+  },
+  "secPrivacy": {
+    "message": "Απόρρητο"
+  },
+  "privacyBody": {
+    "message": "Το Clean Print δεν συλλέγει δεδομένα. Διαβάζει την τρέχουσα σελίδα μόνο όταν κάνεις κλικ στο Καθάρισμα, την επεξεργάζεται εξ ολοκλήρου στη συσκευή σου και δεν κάνει ποτέ αίτημα δικτύου."
+  },
+  "privacyLink": {
+    "message": "Διάβασε την πλήρη πολιτική απορρήτου"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

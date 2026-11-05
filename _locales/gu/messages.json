@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - અવ્યવસ્થા વિના PDF તરીકે સાચવો",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "એક ક્લિકે 100% સ્થાનિક સફાઈ, જાહેરાતો ને અવ્યવસ્થા દૂર કરો, પછી સ્વચ્છ PDF છાપો કે સાચવો. કોઈ ટ્રેકિંગ નહીં.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% સ્થાનિક — તમારા બ્રાઉઝરમાંથી કશું બહાર જતું નથી."
+  },
+  "btnDeclutter": {
+    "message": "આ પૃષ્ઠ સાફ કરો"
+  },
+  "lblFontSize": {
+    "message": "ફોન્ટ કદ"
+  },
+  "lblRemoveImages": {
+    "message": "છબીઓ દૂર કરો"
+  },
+  "lblPageBreaks": {
+    "message": "વિભાગોને નવા પૃષ્ઠો પર તોડો"
+  },
+  "lblTheme": {
+    "message": "થીમ"
+  },
+  "themeLight": {
+    "message": "હળવી"
+  },
+  "themeSepia": {
+    "message": "સેપિયા"
+  },
+  "footerLocal": {
+    "message": "ખાનગી · સ્થાનિક · કોઈ ખાતું નહીં"
+  },
+  "footerOptions": {
+    "message": "વધુ સેટિંગ્સ"
+  },
+  "statusOpening": {
+    "message": "સ્વચ્છ પૂર્વાવલોકન ખૂલી રહ્યું છે…"
+  },
+  "errRestricted": {
+    "message": "આ પૃષ્ઠ સાફ કરી શકાતું નથી (બ્રાઉઝર કે સ્ટોર પૃષ્ઠ)."
+  },
+  "errNoTab": {
+    "message": "કોઈ સક્રિય ટૅબ મળી નથી."
+  },
+  "errInject": {
+    "message": "અહીં સ્વચ્છ પૂર્વાવલોકન ખોલી શકાયું નહીં."
+  },
+  "previewTitle": {
+    "message": "Clean Print પૂર્વાવલોકન"
+  },
+  "btnPrint": {
+    "message": "છાપો / PDF સાચવો"
+  },
+  "btnPrintTitle": {
+    "message": "આ સ્વચ્છ દસ્તાવેજ માટે નેટિવ પ્રિન્ટ સંવાદ ખોલો"
+  },
+  "btnRemove": {
+    "message": "તત્ત્વો દૂર કરો"
+  },
+  "btnRemoveTitle": {
+    "message": "પૂર્વાવલોકનમાંથી કાઢી નાખવા માટે કોઈપણ તત્ત્વ પર ક્લિક કરો"
+  },
+  "btnImages": {
+    "message": "છબીઓ"
+  },
+  "btnImagesTitle": {
+    "message": "છબીઓ ચાલુ કે બંધ કરો"
+  },
+  "btnBigger": {
+    "message": "મોટો ટેક્સ્ટ"
+  },
+  "btnSmaller": {
+    "message": "નાનો ટેક્સ્ટ"
+  },
+  "btnClose": {
+    "message": "બંધ કરો"
+  },
+  "btnCloseTitle": {
+    "message": "સ્વચ્છ પૂર્વાવલોકન બંધ કરો"
+  },
+  "noArticle": {
+    "message": "આ પૃષ્ઠ પર કોઈ વાંચી શકાય તેવો લેખ મળ્યો નથી."
+  },
+  "mountFailed": {
+    "message": "સ્વચ્છ પૂર્વાવલોકન બનાવી શકાયું નહીં."
+  },
+  "optHeading": {
+    "message": "Clean Print સેટિંગ્સ"
+  },
+  "optSub": {
+    "message": "બધું જ સ્થાનિક રીતે ચાલે છે. કોઈ ખાતું નહીં, કોઈ સર્વર નહીં, તમારા બ્રાઉઝરમાંથી કોઈ ડેટા બહાર જતો નથી."
+  },
+  "secDefaults": {
+    "message": "મૂળભૂત પ્રિન્ટ શૈલી"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro સાચવેલા સાઇટ-દીઠ સફાઈ નિયમો, હેડર/ફૂટર અને વોટરમાર્ક ટેમ્પ્લેટ્સ, અને સંમતિ-આધારિત બૅચ-PDF માર્ગ ખોલે છે. મફત સાધન કાયમ સંપૂર્ણ કાર્યક્ષમ રહે છે."
+  },
+  "lblLicense": {
+    "message": "લાઇસન્સ કી"
+  },
+  "rulesTitle": {
+    "message": "સાચવેલા સાઇટ-દીઠ નિયમો"
+  },
+  "btnAddRule": {
+    "message": "વર્તમાન સાઇટ ઉમેરો"
+  },
+  "rulesEmpty": {
+    "message": "હજુ કોઈ સાચવેલા નિયમો નથી."
+  },
+  "btnDelete": {
+    "message": "કાઢી નાખો"
+  },
+  "secPrivacy": {
+    "message": "ગોપનીયતા"
+  },
+  "privacyBody": {
+    "message": "Clean Print કોઈ ડેટા એકત્રિત કરતું નથી. તમે Declutter પર ક્લિક કરો ત્યારે જ તે વર્તમાન પૃષ્ઠ વાંચે છે, તેને સંપૂર્ણપણે તમારા ઉપકરણ પર જ પ્રક્રિયા કરે છે, અને ક્યારેય નેટવર્ક વિનંતી કરતું નથી."
+  },
+  "privacyLink": {
+    "message": "સંપૂર્ણ ગોપનીયતા નીતિ વાંચો"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

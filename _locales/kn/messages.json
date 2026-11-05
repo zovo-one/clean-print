@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - ಅವ್ಯವಸ್ಥೆ ಇಲ್ಲದೆ PDF ಆಗಿ ಉಳಿಸಿ",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "ಒಂದೇ ಕ್ಲಿಕ್‌ನಲ್ಲಿ ಜಾಹೀರಾತು ಮತ್ತು ಅವ್ಯವಸ್ಥೆ ತೆಗೆದು ಸ್ವಚ್ಛ PDF ಮುದ್ರಿಸಿ ಅಥವಾ ಉಳಿಸಿ. 100% ಸ್ಥಳೀಯ, ಖಾತೆ ಇಲ್ಲ, ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲ.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% ಸ್ಥಳೀಯ — ಏನೂ ನಿಮ್ಮ ಬ್ರೌಸರ್ ಅನ್ನು ಬಿಡುವುದಿಲ್ಲ."
+  },
+  "btnDeclutter": {
+    "message": "ಈ ಪುಟದ ಅವ್ಯವಸ್ಥೆ ನಿವಾರಿಸಿ"
+  },
+  "lblFontSize": {
+    "message": "ಫಾಂಟ್ ಗಾತ್ರ"
+  },
+  "lblRemoveImages": {
+    "message": "ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಹಾಕಿ"
+  },
+  "lblPageBreaks": {
+    "message": "ವಿಭಾಗಗಳನ್ನು ಹೊಸ ಪುಟಗಳಿಗೆ ವಿಂಗಡಿಸಿ"
+  },
+  "lblTheme": {
+    "message": "ಥೀಮ್"
+  },
+  "themeLight": {
+    "message": "ತಿಳಿ"
+  },
+  "themeSepia": {
+    "message": "ಸೆಪಿಯಾ"
+  },
+  "footerLocal": {
+    "message": "ಖಾಸಗಿ · ಸ್ಥಳೀಯ · ಖಾತೆ ಇಲ್ಲ"
+  },
+  "footerOptions": {
+    "message": "ಹೆಚ್ಚಿನ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "statusOpening": {
+    "message": "ಸ್ವಚ್ಛ ಪೂರ್ವವೀಕ್ಷಣೆ ತೆರೆಯುತ್ತಿದೆ…"
+  },
+  "errRestricted": {
+    "message": "ಈ ಪುಟದ ಅವ್ಯವಸ್ಥೆ ನಿವಾರಿಸಲಾಗುವುದಿಲ್ಲ (ಬ್ರೌಸರ್ ಅಥವಾ ಸ್ಟೋರ್ ಪುಟ)."
+  },
+  "errNoTab": {
+    "message": "ಯಾವುದೇ ಸಕ್ರಿಯ ಟ್ಯಾಬ್ ಕಂಡುಬಂದಿಲ್ಲ."
+  },
+  "errInject": {
+    "message": "ಇಲ್ಲಿ ಸ್ವಚ್ಛ ಪೂರ್ವವೀಕ್ಷಣೆಯನ್ನು ತೆರೆಯಲಾಗಲಿಲ್ಲ."
+  },
+  "previewTitle": {
+    "message": "Clean Print ಪೂರ್ವವೀಕ್ಷಣೆ"
+  },
+  "btnPrint": {
+    "message": "ಮುದ್ರಿಸಿ / PDF ಉಳಿಸಿ"
+  },
+  "btnPrintTitle": {
+    "message": "ಈ ಸ್ವಚ್ಛ ದಸ್ತಾವೇಜಿಗಾಗಿ ಸ್ಥಳೀಯ ಮುದ್ರಣ ಸಂವಾದವನ್ನು ತೆರೆಯಿರಿ"
+  },
+  "btnRemove": {
+    "message": "ಎಲಿಮೆಂಟ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಿ"
+  },
+  "btnRemoveTitle": {
+    "message": "ಪೂರ್ವವೀಕ್ಷಣೆಯಿಂದ ಅಳಿಸಲು ಯಾವುದೇ ಎಲಿಮೆಂಟ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ"
+  },
+  "btnImages": {
+    "message": "ಚಿತ್ರಗಳು"
+  },
+  "btnImagesTitle": {
+    "message": "ಚಿತ್ರಗಳನ್ನು ಆನ್ ಅಥವಾ ಆಫ್ ಟಾಗಲ್ ಮಾಡಿ"
+  },
+  "btnBigger": {
+    "message": "ದೊಡ್ಡ ಪಠ್ಯ"
+  },
+  "btnSmaller": {
+    "message": "ಚಿಕ್ಕ ಪಠ್ಯ"
+  },
+  "btnClose": {
+    "message": "ಮುಚ್ಚಿ"
+  },
+  "btnCloseTitle": {
+    "message": "ಸ್ವಚ್ಛ ಪೂರ್ವವೀಕ್ಷಣೆಯನ್ನು ಮುಚ್ಚಿ"
+  },
+  "noArticle": {
+    "message": "ಈ ಪುಟದಲ್ಲಿ ಓದಬಹುದಾದ ಲೇಖನ ಕಂಡುಬಂದಿಲ್ಲ."
+  },
+  "mountFailed": {
+    "message": "ಸ್ವಚ್ಛ ಪೂರ್ವವೀಕ್ಷಣೆಯನ್ನು ನಿರ್ಮಿಸಲಾಗಲಿಲ್ಲ."
+  },
+  "optHeading": {
+    "message": "Clean Print ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "optSub": {
+    "message": "ಎಲ್ಲವೂ ಸ್ಥಳೀಯವಾಗಿ ಚಲಿಸುತ್ತದೆ. ಖಾತೆ ಇಲ್ಲ, ಸರ್ವರ್ ಇಲ್ಲ, ಯಾವುದೇ ಡೇಟಾ ನಿಮ್ಮ ಬ್ರೌಸರ್ ಅನ್ನು ಬಿಡುವುದಿಲ್ಲ."
+  },
+  "secDefaults": {
+    "message": "ಡೀಫಾಲ್ಟ್ ಮುದ್ರಣ ಶೈಲಿ"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro ಉಳಿಸಿದ ಸೈಟ್-ವಾರು ಅವ್ಯವಸ್ಥೆ-ನಿವಾರಣಾ ನಿಯಮಗಳು, ಹೆಡರ್/ಫೂಟರ್ ಮತ್ತು ವಾಟರ್‌ಮಾರ್ಕ್ ಟೆಂಪ್ಲೇಟ್‌ಗಳು ಮತ್ತು ಸಮ್ಮತಿಸಿದ ಬ್ಯಾಚ್-PDF ಮಾರ್ಗವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡುತ್ತದೆ. ಉಚಿತ ಟೂಲ್ ಶಾಶ್ವತವಾಗಿ ಸಂಪೂರ್ಣ ಕಾರ್ಯಶೀಲವಾಗಿ ಉಳಿಯುತ್ತದೆ."
+  },
+  "lblLicense": {
+    "message": "ಲೈಸೆನ್ಸ್ ಕೀ"
+  },
+  "rulesTitle": {
+    "message": "ಉಳಿಸಿದ ಸೈಟ್-ವಾರು ನಿಯಮಗಳು"
+  },
+  "btnAddRule": {
+    "message": "ಪ್ರಸ್ತುತ ಸೈಟ್ ಸೇರಿಸಿ"
+  },
+  "rulesEmpty": {
+    "message": "ಇನ್ನೂ ಉಳಿಸಿದ ನಿಯಮಗಳಿಲ್ಲ."
+  },
+  "btnDelete": {
+    "message": "ಅಳಿಸಿ"
+  },
+  "secPrivacy": {
+    "message": "ಗೌಪ್ಯತೆ"
+  },
+  "privacyBody": {
+    "message": "Clean Print ಯಾವುದೇ ಡೇಟಾ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ. ನೀವು ಅವ್ಯವಸ್ಥೆ ನಿವಾರಿಸಿ ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಮಾತ್ರ ಅದು ಪ್ರಸ್ತುತ ಪುಟವನ್ನು ಓದುತ್ತದೆ, ಅದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತದೆ, ಮತ್ತು ಎಂದಿಗೂ ನೆಟ್‌ವರ್ಕ್ ವಿನಂತಿ ಮಾಡುವುದಿಲ್ಲ."
+  },
+  "privacyLink": {
+    "message": "ಪೂರ್ಣ ಗೌಪ್ಯತಾ ನೀತಿಯನ್ನು ಓದಿ"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

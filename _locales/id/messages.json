@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Simpan sebagai PDF tanpa kekacauan",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Bersihkan 100% lokal sekali klik: singkirkan iklan dan kekacauan, lalu cetak atau simpan PDF yang rapi. Tanpa akun, tanpa server.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% lokal — tidak ada yang keluar dari browser Anda."
+  },
+  "btnDeclutter": {
+    "message": "Bersihkan halaman ini"
+  },
+  "lblFontSize": {
+    "message": "Ukuran font"
+  },
+  "lblRemoveImages": {
+    "message": "Hapus gambar"
+  },
+  "lblPageBreaks": {
+    "message": "Pisahkan bagian ke halaman baru"
+  },
+  "lblTheme": {
+    "message": "Tema"
+  },
+  "themeLight": {
+    "message": "Terang"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "footerLocal": {
+    "message": "Privat · lokal · tanpa akun"
+  },
+  "footerOptions": {
+    "message": "Setelan lainnya"
+  },
+  "statusOpening": {
+    "message": "Membuka pratinjau bersih…"
+  },
+  "errRestricted": {
+    "message": "Halaman ini tidak dapat dibersihkan (halaman browser atau store)."
+  },
+  "errNoTab": {
+    "message": "Tidak ada tab aktif ditemukan."
+  },
+  "errInject": {
+    "message": "Tidak dapat membuka pratinjau bersih di sini."
+  },
+  "previewTitle": {
+    "message": "Pratinjau Clean Print"
+  },
+  "btnPrint": {
+    "message": "Cetak / Simpan PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Buka dialog cetak bawaan untuk dokumen bersih ini"
+  },
+  "btnRemove": {
+    "message": "Hapus elemen"
+  },
+  "btnRemoveTitle": {
+    "message": "Klik elemen mana pun untuk menghapusnya dari pratinjau"
+  },
+  "btnImages": {
+    "message": "Gambar"
+  },
+  "btnImagesTitle": {
+    "message": "Aktifkan atau nonaktifkan gambar"
+  },
+  "btnBigger": {
+    "message": "Teks lebih besar"
+  },
+  "btnSmaller": {
+    "message": "Teks lebih kecil"
+  },
+  "btnClose": {
+    "message": "Tutup"
+  },
+  "btnCloseTitle": {
+    "message": "Tutup pratinjau bersih"
+  },
+  "noArticle": {
+    "message": "Tidak ada artikel yang dapat dibaca di halaman ini."
+  },
+  "mountFailed": {
+    "message": "Tidak dapat membuat pratinjau bersih."
+  },
+  "optHeading": {
+    "message": "Setelan Clean Print"
+  },
+  "optSub": {
+    "message": "Semuanya berjalan secara lokal. Tanpa akun, tanpa server, tidak ada data yang keluar dari browser Anda."
+  },
+  "secDefaults": {
+    "message": "Gaya cetak default"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro membuka aturan tersimpan per situs, template header/footer & watermark, serta jalur PDF massal yang disetujui. Versi gratis tetap berfungsi penuh selamanya."
+  },
+  "lblLicense": {
+    "message": "Kunci lisensi"
+  },
+  "rulesTitle": {
+    "message": "Aturan tersimpan per situs"
+  },
+  "btnAddRule": {
+    "message": "Tambahkan situs saat ini"
+  },
+  "rulesEmpty": {
+    "message": "Belum ada aturan tersimpan."
+  },
+  "btnDelete": {
+    "message": "Hapus"
+  },
+  "secPrivacy": {
+    "message": "Privasi"
+  },
+  "privacyBody": {
+    "message": "Clean Print tidak mengumpulkan data. Ia membaca halaman saat ini hanya ketika Anda klik Bersihkan, memproses semuanya di perangkat Anda, dan tidak pernah melakukan permintaan jaringan."
+  },
+  "privacyLink": {
+    "message": "Baca kebijakan privasi lengkap"
+  },
+  "rulesCapReached": {
+    "message": "Versi gratis menyimpan hingga 3 aturan situs. Upgrade ke Pro untuk tanpa batas."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

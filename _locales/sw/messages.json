@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Hifadhi kama PDF bila fujo",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Ondoa fujo kwa mbofyo mmoja, 100% ndani ya kifaa, ondoa matangazo, kisha chapisha au hifadhi PDF safi. Bila ufuatiliaji.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% ndani ya kifaa — hakuna kinachotoka kwenye kivinjari chako."
+  },
+  "btnDeclutter": {
+    "message": "Ondoa fujo kwenye ukurasa huu"
+  },
+  "lblFontSize": {
+    "message": "Ukubwa wa fonti"
+  },
+  "lblRemoveImages": {
+    "message": "Ondoa picha"
+  },
+  "lblPageBreaks": {
+    "message": "Tenganisha sehemu kwenye kurasa mpya"
+  },
+  "lblTheme": {
+    "message": "Mandhari"
+  },
+  "themeLight": {
+    "message": "Angavu"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "footerLocal": {
+    "message": "Faragha · ndani ya kifaa · bila akaunti"
+  },
+  "footerOptions": {
+    "message": "Mipangilio zaidi"
+  },
+  "statusOpening": {
+    "message": "Inafungua onyesho la awali safi…"
+  },
+  "errRestricted": {
+    "message": "Ukurasa huu hauwezi kuondolewa fujo (ukurasa wa kivinjari au duka)."
+  },
+  "errNoTab": {
+    "message": "Hakuna kichupo kinachotumika kilichopatikana."
+  },
+  "errInject": {
+    "message": "Imeshindwa kufungua onyesho la awali safi hapa."
+  },
+  "previewTitle": {
+    "message": "Onyesho la awali la Clean Print"
+  },
+  "btnPrint": {
+    "message": "Chapisha / Hifadhi PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Fungua kidirisha asilia cha uchapishaji kwa hati hii safi"
+  },
+  "btnRemove": {
+    "message": "Ondoa vipengele"
+  },
+  "btnRemoveTitle": {
+    "message": "Bofya kipengele chochote ili kukifuta kutoka kwenye onyesho la awali"
+  },
+  "btnImages": {
+    "message": "Picha"
+  },
+  "btnImagesTitle": {
+    "message": "Washa au zima picha"
+  },
+  "btnBigger": {
+    "message": "Maandishi makubwa"
+  },
+  "btnSmaller": {
+    "message": "Maandishi madogo"
+  },
+  "btnClose": {
+    "message": "Funga"
+  },
+  "btnCloseTitle": {
+    "message": "Funga onyesho la awali safi"
+  },
+  "noArticle": {
+    "message": "Hakuna makala inayoweza kusomeka iliyopatikana kwenye ukurasa huu."
+  },
+  "mountFailed": {
+    "message": "Imeshindwa kujenga onyesho la awali safi."
+  },
+  "optHeading": {
+    "message": "Mipangilio ya Clean Print"
+  },
+  "optSub": {
+    "message": "Kila kitu hufanyika ndani ya kifaa. Bila akaunti, bila seva, hakuna data inayotoka kwenye kivinjari chako."
+  },
+  "secDefaults": {
+    "message": "Mtindo chaguo-msingi wa uchapishaji"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro hufungua sheria za kuondoa fujo zilizohifadhiwa kwa kila tovuti, violezo vya kichwa/mguu na alama za maji, na njia ya PDF ya kundi iliyoidhinishwa. Zana ya bure hubaki inafanya kazi kikamilifu milele."
+  },
+  "lblLicense": {
+    "message": "Ufunguo wa leseni"
+  },
+  "rulesTitle": {
+    "message": "Sheria zilizohifadhiwa kwa kila tovuti"
+  },
+  "btnAddRule": {
+    "message": "Ongeza tovuti ya sasa"
+  },
+  "rulesEmpty": {
+    "message": "Hakuna sheria zilizohifadhiwa bado."
+  },
+  "btnDelete": {
+    "message": "Futa"
+  },
+  "secPrivacy": {
+    "message": "Faragha"
+  },
+  "privacyBody": {
+    "message": "Clean Print haikusanyi data yoyote. Husoma ukurasa wa sasa tu unapobofya Ondoa fujo, huuchakata kabisa kwenye kifaa chako, na kamwe haitumi ombi la mtandao."
+  },
+  "privacyLink": {
+    "message": "Soma sera kamili ya faragha"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

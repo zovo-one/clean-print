@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Tallenna PDF:ksi ilman sekamelskaa",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Yhden napsautuksen paikallinen siivous: poista mainokset ja sekamelska, tulosta tai tallenna siisti PDF. Ei tiliä, ei seurantaa.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100 % paikallinen — mikään ei poistu selaimestasi."
+  },
+  "btnDeclutter": {
+    "message": "Siivoa tämä sivu"
+  },
+  "lblFontSize": {
+    "message": "Fonttikoko"
+  },
+  "lblRemoveImages": {
+    "message": "Poista kuvat"
+  },
+  "lblPageBreaks": {
+    "message": "Jaa osiot uusille sivuille"
+  },
+  "lblTheme": {
+    "message": "Teema"
+  },
+  "themeLight": {
+    "message": "Vaalea"
+  },
+  "themeSepia": {
+    "message": "Seepia"
+  },
+  "footerLocal": {
+    "message": "Yksityinen · paikallinen · ei tiliä"
+  },
+  "footerOptions": {
+    "message": "Lisää asetuksia"
+  },
+  "statusOpening": {
+    "message": "Avataan siistiä esikatselua…"
+  },
+  "errRestricted": {
+    "message": "Tätä sivua ei voi siivota (selain- tai kauppasivu)."
+  },
+  "errNoTab": {
+    "message": "Aktiivista välilehteä ei löytynyt."
+  },
+  "errInject": {
+    "message": "Siistin esikatselun avaaminen tässä epäonnistui."
+  },
+  "previewTitle": {
+    "message": "Clean Print -esikatselu"
+  },
+  "btnPrint": {
+    "message": "Tulosta / Tallenna PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Avaa tämän siistin asiakirjan alkuperäinen tulostusikkuna"
+  },
+  "btnRemove": {
+    "message": "Poista elementtejä"
+  },
+  "btnRemoveTitle": {
+    "message": "Napsauta mitä tahansa elementtiä poistaaksesi sen esikatselusta"
+  },
+  "btnImages": {
+    "message": "Kuvat"
+  },
+  "btnImagesTitle": {
+    "message": "Kytke kuvat päälle tai pois"
+  },
+  "btnBigger": {
+    "message": "Suurempi teksti"
+  },
+  "btnSmaller": {
+    "message": "Pienempi teksti"
+  },
+  "btnClose": {
+    "message": "Sulje"
+  },
+  "btnCloseTitle": {
+    "message": "Sulje siisti esikatselu"
+  },
+  "noArticle": {
+    "message": "Tältä sivulta ei löytynyt luettavaa artikkelia."
+  },
+  "mountFailed": {
+    "message": "Siistin esikatselun rakentaminen epäonnistui."
+  },
+  "optHeading": {
+    "message": "Clean Print -asetukset"
+  },
+  "optSub": {
+    "message": "Kaikki toimii paikallisesti. Ei tiliä, ei palvelimia, mitään tietoa ei poistu selaimestasi."
+  },
+  "secDefaults": {
+    "message": "Oletustulostustyyli"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro avaa tallennetut sivustokohtaiset siivoussäännöt, ylä-/alatunnisteen ja vesileimamallit sekä suostumukseen perustuvan erä-PDF-toiminnon. Ilmainen työkalu pysyy täysin toimivana ikuisesti."
+  },
+  "lblLicense": {
+    "message": "Lisenssiavain"
+  },
+  "rulesTitle": {
+    "message": "Tallennetut sivustokohtaiset säännöt"
+  },
+  "btnAddRule": {
+    "message": "Lisää nykyinen sivusto"
+  },
+  "rulesEmpty": {
+    "message": "Ei vielä tallennettuja sääntöjä."
+  },
+  "btnDelete": {
+    "message": "Poista"
+  },
+  "secPrivacy": {
+    "message": "Yksityisyys"
+  },
+  "privacyBody": {
+    "message": "Clean Print ei kerää mitään tietoja. Se lukee nykyisen sivun vain, kun napsautat Siivoa, käsittelee sen kokonaan laitteellasi eikä koskaan tee verkkopyyntöä."
+  },
+  "privacyLink": {
+    "message": "Lue koko tietosuojakäytäntö"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

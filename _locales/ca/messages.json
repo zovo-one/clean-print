@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Desa com a PDF sense desordre",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Neteja amb un sol clic, 100% local, elimina anuncis i desordre i imprimeix o desa un PDF net. Sense compte ni servidors.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% local — res no surt del teu navegador."
+  },
+  "btnDeclutter": {
+    "message": "Neteja aquesta pàgina"
+  },
+  "lblFontSize": {
+    "message": "Mida de la lletra"
+  },
+  "lblRemoveImages": {
+    "message": "Elimina les imatges"
+  },
+  "lblPageBreaks": {
+    "message": "Separa les seccions en pàgines noves"
+  },
+  "lblTheme": {
+    "message": "Tema"
+  },
+  "themeLight": {
+    "message": "Clar"
+  },
+  "themeSepia": {
+    "message": "Sèpia"
+  },
+  "footerLocal": {
+    "message": "Privat · local · sense compte"
+  },
+  "footerOptions": {
+    "message": "Més opcions"
+  },
+  "statusOpening": {
+    "message": "S'està obrint la vista prèvia neta…"
+  },
+  "errRestricted": {
+    "message": "Aquesta pàgina no es pot netejar (pàgina del navegador o de la botiga)."
+  },
+  "errNoTab": {
+    "message": "No s'ha trobat cap pestanya activa."
+  },
+  "errInject": {
+    "message": "No s'ha pogut obrir la vista prèvia neta aquí."
+  },
+  "previewTitle": {
+    "message": "Vista prèvia de Clean Print"
+  },
+  "btnPrint": {
+    "message": "Imprimeix / Desa PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Obre el diàleg d'impressió natiu per a aquest document net"
+  },
+  "btnRemove": {
+    "message": "Elimina elements"
+  },
+  "btnRemoveTitle": {
+    "message": "Fes clic a qualsevol element per suprimir-lo de la vista prèvia"
+  },
+  "btnImages": {
+    "message": "Imatges"
+  },
+  "btnImagesTitle": {
+    "message": "Activa o desactiva les imatges"
+  },
+  "btnBigger": {
+    "message": "Text més gran"
+  },
+  "btnSmaller": {
+    "message": "Text més petit"
+  },
+  "btnClose": {
+    "message": "Tanca"
+  },
+  "btnCloseTitle": {
+    "message": "Tanca la vista prèvia neta"
+  },
+  "noArticle": {
+    "message": "No s'ha trobat cap article llegible en aquesta pàgina."
+  },
+  "mountFailed": {
+    "message": "No s'ha pogut crear la vista prèvia neta."
+  },
+  "optHeading": {
+    "message": "Configuració de Clean Print"
+  },
+  "optSub": {
+    "message": "Tot s'executa localment. Sense compte, sense servidors, cap dada surt del teu navegador."
+  },
+  "secDefaults": {
+    "message": "Estil d'impressió per defecte"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro desbloqueja regles de neteja desades per lloc, plantilles de capçalera/peu i marca d'aigua, i el flux de PDF per lots amb consentiment. L'eina gratuïta continua sent plenament funcional per sempre."
+  },
+  "lblLicense": {
+    "message": "Clau de llicència"
+  },
+  "rulesTitle": {
+    "message": "Regles desades per lloc"
+  },
+  "btnAddRule": {
+    "message": "Afegeix el lloc actual"
+  },
+  "rulesEmpty": {
+    "message": "Encara no hi ha regles desades."
+  },
+  "btnDelete": {
+    "message": "Suprimeix"
+  },
+  "secPrivacy": {
+    "message": "Privadesa"
+  },
+  "privacyBody": {
+    "message": "Clean Print no recull cap dada. Llegeix la pàgina actual només quan fas clic a Neteja, la processa completament al teu dispositiu i mai no fa cap petició de xarxa."
+  },
+  "privacyLink": {
+    "message": "Llegeix la política de privadesa completa"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

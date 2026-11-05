@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Lagre som PDF uten rotet",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Fjern annonser og rot med ett klikk, 100 % lokalt, og skriv ut eller lagre en ren PDF. Uten konto, servere og sporing.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100 % lokalt — ingenting forlater nettleseren din."
+  },
+  "btnDeclutter": {
+    "message": "Rydd opp denne siden"
+  },
+  "lblFontSize": {
+    "message": "Skriftstørrelse"
+  },
+  "lblRemoveImages": {
+    "message": "Fjern bilder"
+  },
+  "lblPageBreaks": {
+    "message": "Del inn seksjoner på nye sider"
+  },
+  "lblTheme": {
+    "message": "Tema"
+  },
+  "themeLight": {
+    "message": "Lyst"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "footerLocal": {
+    "message": "Privat · lokalt · ingen konto"
+  },
+  "footerOptions": {
+    "message": "Flere innstillinger"
+  },
+  "statusOpening": {
+    "message": "Åpner ren forhåndsvisning…"
+  },
+  "errRestricted": {
+    "message": "Denne siden kan ikke ryddes opp (nettleser- eller butikkside)."
+  },
+  "errNoTab": {
+    "message": "Fant ingen aktiv fane."
+  },
+  "errInject": {
+    "message": "Kunne ikke åpne den rene forhåndsvisningen her."
+  },
+  "previewTitle": {
+    "message": "Clean Print-forhåndsvisning"
+  },
+  "btnPrint": {
+    "message": "Skriv ut / Lagre PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Åpne den innebygde utskriftsdialogen for dette rene dokumentet"
+  },
+  "btnRemove": {
+    "message": "Fjern elementer"
+  },
+  "btnRemoveTitle": {
+    "message": "Klikk på et element for å slette det fra forhåndsvisningen"
+  },
+  "btnImages": {
+    "message": "Bilder"
+  },
+  "btnImagesTitle": {
+    "message": "Slå bilder på eller av"
+  },
+  "btnBigger": {
+    "message": "Større tekst"
+  },
+  "btnSmaller": {
+    "message": "Mindre tekst"
+  },
+  "btnClose": {
+    "message": "Lukk"
+  },
+  "btnCloseTitle": {
+    "message": "Lukk den rene forhåndsvisningen"
+  },
+  "noArticle": {
+    "message": "Fant ingen lesbar artikkel på denne siden."
+  },
+  "mountFailed": {
+    "message": "Kunne ikke bygge den rene forhåndsvisningen."
+  },
+  "optHeading": {
+    "message": "Clean Print-innstillinger"
+  },
+  "optSub": {
+    "message": "Alt kjører lokalt. Ingen konto, ingen servere, ingen data forlater nettleseren din."
+  },
+  "secDefaults": {
+    "message": "Standard utskriftsstil"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro låser opp lagrede opprydningsregler per nettsted, maler for topptekst/bunntekst og vannmerke, og den samtykkebaserte batch-PDF-funksjonen. Gratisverktøyet forblir fullt funksjonelt for alltid."
+  },
+  "lblLicense": {
+    "message": "Lisensnøkkel"
+  },
+  "rulesTitle": {
+    "message": "Lagrede regler per nettsted"
+  },
+  "btnAddRule": {
+    "message": "Legg til gjeldende nettsted"
+  },
+  "rulesEmpty": {
+    "message": "Ingen lagrede regler ennå."
+  },
+  "btnDelete": {
+    "message": "Slett"
+  },
+  "secPrivacy": {
+    "message": "Personvern"
+  },
+  "privacyBody": {
+    "message": "Clean Print samler ingen data. Den leser den gjeldende siden kun når du klikker på Rydd opp, behandler den fullstendig på enheten din, og sender aldri en nettverksforespørsel."
+  },
+  "privacyLink": {
+    "message": "Les hele personvernerklæringen"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

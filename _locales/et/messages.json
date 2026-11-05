@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - salvesta PDF-ina ilma segaduseta",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Ühe klõpsuga eemalda reklaamid ja segavad elemendid, seejärel prindi või salvesta puhas PDF. 100% kohalik, ei mingit jälgimist.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% kohalik — miski ei lahku sinu brauserist."
+  },
+  "btnDeclutter": {
+    "message": "Korrasta see leht"
+  },
+  "lblFontSize": {
+    "message": "Fondi suurus"
+  },
+  "lblRemoveImages": {
+    "message": "Eemalda pildid"
+  },
+  "lblPageBreaks": {
+    "message": "Jaga jaotised uutele lehtedele"
+  },
+  "lblTheme": {
+    "message": "Kujundus"
+  },
+  "themeLight": {
+    "message": "Hele"
+  },
+  "themeSepia": {
+    "message": "Seepia"
+  },
+  "footerLocal": {
+    "message": "Privaatne · kohalik · kontovaba"
+  },
+  "footerOptions": {
+    "message": "Veel seadeid"
+  },
+  "statusOpening": {
+    "message": "Avan puhast eelvaadet…"
+  },
+  "errRestricted": {
+    "message": "Seda lehte ei saa korrastada (brauseri- või poeleht)."
+  },
+  "errNoTab": {
+    "message": "Aktiivset kaarti ei leitud."
+  },
+  "errInject": {
+    "message": "Puhast eelvaadet ei õnnestunud siin avada."
+  },
+  "previewTitle": {
+    "message": "Clean Print eelvaade"
+  },
+  "btnPrint": {
+    "message": "Prindi / Salvesta PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Ava selle puhta dokumendi jaoks natiivne printimisdialoog"
+  },
+  "btnRemove": {
+    "message": "Eemalda elemendid"
+  },
+  "btnRemoveTitle": {
+    "message": "Klõpsa mis tahes elementi, et see eelvaatest kustutada"
+  },
+  "btnImages": {
+    "message": "Pildid"
+  },
+  "btnImagesTitle": {
+    "message": "Lülita pildid sisse või välja"
+  },
+  "btnBigger": {
+    "message": "Suurem tekst"
+  },
+  "btnSmaller": {
+    "message": "Väiksem tekst"
+  },
+  "btnClose": {
+    "message": "Sulge"
+  },
+  "btnCloseTitle": {
+    "message": "Sulge puhas eelvaade"
+  },
+  "noArticle": {
+    "message": "Sellel lehel ei leitud loetavat artiklit."
+  },
+  "mountFailed": {
+    "message": "Puhast eelvaadet ei õnnestunud koostada."
+  },
+  "optHeading": {
+    "message": "Clean Print seaded"
+  },
+  "optSub": {
+    "message": "Kõik toimub kohalikult. Kontot pole, servereid pole, ükski andmehulk ei lahku sinu brauserist."
+  },
+  "secDefaults": {
+    "message": "Vaikimisi printimisstiil"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro avab salvestatud saidipõhised korrastusreeglid, päise/jaluse ja vesimärgi mallid ning nõusolekupõhise partii-PDF-i tee. Tasuta tööriist jääb igavesti täielikult toimivaks."
+  },
+  "lblLicense": {
+    "message": "Litsentsivõti"
+  },
+  "rulesTitle": {
+    "message": "Salvestatud saidipõhised reeglid"
+  },
+  "btnAddRule": {
+    "message": "Lisa praegune sait"
+  },
+  "rulesEmpty": {
+    "message": "Salvestatud reegleid veel pole."
+  },
+  "btnDelete": {
+    "message": "Kustuta"
+  },
+  "secPrivacy": {
+    "message": "Privaatsus"
+  },
+  "privacyBody": {
+    "message": "Clean Print ei kogu mingeid andmeid. See loeb praegust lehte ainult siis, kui klõpsad Korrasta, töötleb selle täielikult sinu seadmes ega tee kunagi võrgupäringut."
+  },
+  "privacyLink": {
+    "message": "Loe täielikku privaatsuspoliitikat"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

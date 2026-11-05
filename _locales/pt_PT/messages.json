@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Guarde como PDF sem a desordem",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Limpeza 100% local num clique, remove anúncios e desordem e imprime ou guarda um PDF limpo. Sem conta nem rastreio.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% local — nada sai do seu navegador."
+  },
+  "btnDeclutter": {
+    "message": "Limpar esta página"
+  },
+  "lblFontSize": {
+    "message": "Tamanho do tipo de letra"
+  },
+  "lblRemoveImages": {
+    "message": "Remover imagens"
+  },
+  "lblPageBreaks": {
+    "message": "Dividir secções em novas páginas"
+  },
+  "lblTheme": {
+    "message": "Tema"
+  },
+  "themeLight": {
+    "message": "Claro"
+  },
+  "themeSepia": {
+    "message": "Sépia"
+  },
+  "footerLocal": {
+    "message": "Privado · local · sem conta"
+  },
+  "footerOptions": {
+    "message": "Mais definições"
+  },
+  "statusOpening": {
+    "message": "A abrir a pré-visualização limpa…"
+  },
+  "errRestricted": {
+    "message": "Esta página não pode ser limpa (página do navegador ou da loja)."
+  },
+  "errNoTab": {
+    "message": "Nenhum separador ativo encontrado."
+  },
+  "errInject": {
+    "message": "Não foi possível abrir a pré-visualização limpa aqui."
+  },
+  "previewTitle": {
+    "message": "Pré-visualização do Clean Print"
+  },
+  "btnPrint": {
+    "message": "Imprimir / Guardar PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Abrir a caixa de diálogo de impressão nativa para este documento limpo"
+  },
+  "btnRemove": {
+    "message": "Remover elementos"
+  },
+  "btnRemoveTitle": {
+    "message": "Clique em qualquer elemento para o eliminar da pré-visualização"
+  },
+  "btnImages": {
+    "message": "Imagens"
+  },
+  "btnImagesTitle": {
+    "message": "Ativar ou desativar imagens"
+  },
+  "btnBigger": {
+    "message": "Texto maior"
+  },
+  "btnSmaller": {
+    "message": "Texto mais pequeno"
+  },
+  "btnClose": {
+    "message": "Fechar"
+  },
+  "btnCloseTitle": {
+    "message": "Fechar a pré-visualização limpa"
+  },
+  "noArticle": {
+    "message": "Não foi encontrado nenhum artigo legível nesta página."
+  },
+  "mountFailed": {
+    "message": "Não foi possível criar a pré-visualização limpa."
+  },
+  "optHeading": {
+    "message": "Definições do Clean Print"
+  },
+  "optSub": {
+    "message": "Tudo é executado localmente. Sem conta, sem servidores, nenhum dado sai do seu navegador."
+  },
+  "secDefaults": {
+    "message": "Estilo de impressão predefinido"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "O Pro desbloqueia regras de limpeza guardadas por site, modelos de cabeçalho/rodapé e marca de água, e o fluxo de PDF em lote com consentimento. A ferramenta gratuita mantém-se totalmente funcional para sempre."
+  },
+  "lblLicense": {
+    "message": "Chave de licença"
+  },
+  "rulesTitle": {
+    "message": "Regras guardadas por site"
+  },
+  "btnAddRule": {
+    "message": "Adicionar site atual"
+  },
+  "rulesEmpty": {
+    "message": "Ainda não existem regras guardadas."
+  },
+  "btnDelete": {
+    "message": "Eliminar"
+  },
+  "secPrivacy": {
+    "message": "Privacidade"
+  },
+  "privacyBody": {
+    "message": "O Clean Print não recolhe dados. Lê a página atual apenas quando clica em Limpar, processa-a inteiramente no seu dispositivo e nunca faz um pedido de rede."
+  },
+  "privacyLink": {
+    "message": "Ler a política de privacidade completa"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

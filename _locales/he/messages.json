@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - שמור כ-PDF בלי הבלגן",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "ניקוי מקומי לחלוטין בלחיצה אחת, הסר פרסומות ובלגן, ואז הדפס או שמור PDF נקי. ללא חשבון, ללא שרתים, ללא מעקב.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "מקומי לחלוטין — שום דבר לא עוזב את הדפדפן שלך."
+  },
+  "btnDeclutter": {
+    "message": "נקה דף זה"
+  },
+  "lblFontSize": {
+    "message": "גודל גופן"
+  },
+  "lblRemoveImages": {
+    "message": "הסר תמונות"
+  },
+  "lblPageBreaks": {
+    "message": "פצל מקטעים לעמודים חדשים"
+  },
+  "lblTheme": {
+    "message": "ערכת נושא"
+  },
+  "themeLight": {
+    "message": "בהיר"
+  },
+  "themeSepia": {
+    "message": "ספיה"
+  },
+  "footerLocal": {
+    "message": "פרטי · מקומי · ללא חשבון"
+  },
+  "footerOptions": {
+    "message": "הגדרות נוספות"
+  },
+  "statusOpening": {
+    "message": "פותח תצוגה נקייה…"
+  },
+  "errRestricted": {
+    "message": "לא ניתן לנקות דף זה (דף דפדפן או חנות)."
+  },
+  "errNoTab": {
+    "message": "לא נמצאה לשונית פעילה."
+  },
+  "errInject": {
+    "message": "לא ניתן היה לפתוח כאן את התצוגה הנקייה."
+  },
+  "previewTitle": {
+    "message": "תצוגה מקדימה של Clean Print"
+  },
+  "btnPrint": {
+    "message": "הדפס / שמור PDF"
+  },
+  "btnPrintTitle": {
+    "message": "פתח את חלון ההדפסה המקורי עבור מסמך נקי זה"
+  },
+  "btnRemove": {
+    "message": "הסר אלמנטים"
+  },
+  "btnRemoveTitle": {
+    "message": "לחץ על כל אלמנט כדי למחוק אותו מהתצוגה"
+  },
+  "btnImages": {
+    "message": "תמונות"
+  },
+  "btnImagesTitle": {
+    "message": "הצג או הסתר תמונות"
+  },
+  "btnBigger": {
+    "message": "טקסט גדול יותר"
+  },
+  "btnSmaller": {
+    "message": "טקסט קטן יותר"
+  },
+  "btnClose": {
+    "message": "סגור"
+  },
+  "btnCloseTitle": {
+    "message": "סגור את התצוגה הנקייה"
+  },
+  "noArticle": {
+    "message": "לא נמצא מאמר קריא בדף זה."
+  },
+  "mountFailed": {
+    "message": "לא ניתן היה לבנות את התצוגה הנקייה."
+  },
+  "optHeading": {
+    "message": "הגדרות Clean Print"
+  },
+  "optSub": {
+    "message": "הכול פועל מקומית. ללא חשבון, ללא שרתים, שום נתון לא עוזב את הדפדפן שלך."
+  },
+  "secDefaults": {
+    "message": "סגנון הדפסה ברירת מחדל"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro פותח כללי ניקוי שמורים לכל אתר, תבניות כותרת/כותרת תחתונה וסימן מים, ונתיב PDF מרוכז בהסכמה. הכלי החינמי נשאר פונקציונלי לחלוטין לתמיד."
+  },
+  "lblLicense": {
+    "message": "מפתח רישיון"
+  },
+  "rulesTitle": {
+    "message": "כללים שמורים לכל אתר"
+  },
+  "btnAddRule": {
+    "message": "הוסף אתר נוכחי"
+  },
+  "rulesEmpty": {
+    "message": "אין עדיין כללים שמורים."
+  },
+  "btnDelete": {
+    "message": "מחק"
+  },
+  "secPrivacy": {
+    "message": "פרטיות"
+  },
+  "privacyBody": {
+    "message": "Clean Print לא אוסף נתונים. הוא קורא את הדף הנוכחי רק כשאתה לוחץ נקה, מעבד אותו כולו במכשיר שלך, ולעולם לא מבצע בקשת רשת."
+  },
+  "privacyLink": {
+    "message": "קרא את מדיניות הפרטיות המלאה"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

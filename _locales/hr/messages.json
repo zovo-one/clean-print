@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - spremite kao PDF bez nereda",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Uklonite oglase i nered u jednom kliku, 100% lokalno, pa ispišite ili spremite čist PDF. Bez računa, servera i praćenja.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100 % lokalno — ništa ne napušta vaš preglednik."
+  },
+  "btnDeclutter": {
+    "message": "Ukloni nered s ove stranice"
+  },
+  "lblFontSize": {
+    "message": "Veličina fonta"
+  },
+  "lblRemoveImages": {
+    "message": "Ukloni slike"
+  },
+  "lblPageBreaks": {
+    "message": "Podijeli odjeljke na nove stranice"
+  },
+  "lblTheme": {
+    "message": "Tema"
+  },
+  "themeLight": {
+    "message": "Svijetla"
+  },
+  "themeSepia": {
+    "message": "Sepija"
+  },
+  "footerLocal": {
+    "message": "Privatno · lokalno · bez računa"
+  },
+  "footerOptions": {
+    "message": "Više postavki"
+  },
+  "statusOpening": {
+    "message": "Otvaranje čistog pregleda…"
+  },
+  "errRestricted": {
+    "message": "S ove stranice nije moguće ukloniti nered (stranica preglednika ili trgovine)."
+  },
+  "errNoTab": {
+    "message": "Nije pronađena aktivna kartica."
+  },
+  "errInject": {
+    "message": "Ovdje nije moguće otvoriti čisti pregled."
+  },
+  "previewTitle": {
+    "message": "Clean Print pregled"
+  },
+  "btnPrint": {
+    "message": "Ispiši / Spremi PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Otvori izvorni dijaloški okvir za ispis ovog čistog dokumenta"
+  },
+  "btnRemove": {
+    "message": "Ukloni elemente"
+  },
+  "btnRemoveTitle": {
+    "message": "Kliknite bilo koji element da ga izbrišete iz pregleda"
+  },
+  "btnImages": {
+    "message": "Slike"
+  },
+  "btnImagesTitle": {
+    "message": "Uključi ili isključi slike"
+  },
+  "btnBigger": {
+    "message": "Veći tekst"
+  },
+  "btnSmaller": {
+    "message": "Manji tekst"
+  },
+  "btnClose": {
+    "message": "Zatvori"
+  },
+  "btnCloseTitle": {
+    "message": "Zatvori čisti pregled"
+  },
+  "noArticle": {
+    "message": "Na ovoj stranici nije pronađen čitljiv članak."
+  },
+  "mountFailed": {
+    "message": "Nije moguće izraditi čisti pregled."
+  },
+  "optHeading": {
+    "message": "Clean Print postavke"
+  },
+  "optSub": {
+    "message": "Sve se izvodi lokalno. Bez računa, bez poslužitelja, nikakvi podaci ne napuštaju vaš preglednik."
+  },
+  "secDefaults": {
+    "message": "Zadani stil ispisa"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro otključava spremljena pravila za uklanjanje nereda po stranici, predloške zaglavlja/podnožja i vodenog žiga te dopušteni put za skupni PDF. Besplatni alat zauvijek ostaje potpuno funkcionalan."
+  },
+  "lblLicense": {
+    "message": "Licencni ključ"
+  },
+  "rulesTitle": {
+    "message": "Spremljena pravila po stranici"
+  },
+  "btnAddRule": {
+    "message": "Dodaj trenutnu stranicu"
+  },
+  "rulesEmpty": {
+    "message": "Još nema spremljenih pravila."
+  },
+  "btnDelete": {
+    "message": "Izbriši"
+  },
+  "secPrivacy": {
+    "message": "Privatnost"
+  },
+  "privacyBody": {
+    "message": "Clean Print ne prikuplja nikakve podatke. Čita trenutnu stranicu samo kad kliknete Ukloni nered, obrađuje je u potpunosti na vašem uređaju i nikad ne šalje mrežni zahtjev."
+  },
+  "privacyLink": {
+    "message": "Pročitaj cijela pravila o privatnosti"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

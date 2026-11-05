@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - I-save bilang PDF nang walang kalat",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "One-click, 100% lokal na paglilinis, alisin ang mga ad at kalat, i-print o i-save ang malinis na PDF. Walang account o pagsubaybay.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% lokal — walang lumalabas sa iyong browser."
+  },
+  "btnDeclutter": {
+    "message": "Linisin ang pahinang ito"
+  },
+  "lblFontSize": {
+    "message": "Laki ng font"
+  },
+  "lblRemoveImages": {
+    "message": "Alisin ang mga larawan"
+  },
+  "lblPageBreaks": {
+    "message": "Ihiwalay ang mga seksyon sa bagong pahina"
+  },
+  "lblTheme": {
+    "message": "Tema"
+  },
+  "themeLight": {
+    "message": "Maliwanag"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "footerLocal": {
+    "message": "Pribado · lokal · walang account"
+  },
+  "footerOptions": {
+    "message": "Higit pang mga setting"
+  },
+  "statusOpening": {
+    "message": "Binubuksan ang malinis na preview…"
+  },
+  "errRestricted": {
+    "message": "Hindi malilinis ang pahinang ito (pahina ng browser o store)."
+  },
+  "errNoTab": {
+    "message": "Walang aktibong tab na natagpuan."
+  },
+  "errInject": {
+    "message": "Hindi mabuksan ang malinis na preview dito."
+  },
+  "previewTitle": {
+    "message": "Preview ng Clean Print"
+  },
+  "btnPrint": {
+    "message": "I-print / I-save ang PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Buksan ang native na print dialog para sa malinis na dokumentong ito"
+  },
+  "btnRemove": {
+    "message": "Alisin ang mga elemento"
+  },
+  "btnRemoveTitle": {
+    "message": "I-click ang anumang elemento para tanggalin ito sa preview"
+  },
+  "btnImages": {
+    "message": "Mga larawan"
+  },
+  "btnImagesTitle": {
+    "message": "I-toggle ang mga larawan on o off"
+  },
+  "btnBigger": {
+    "message": "Mas malaking teksto"
+  },
+  "btnSmaller": {
+    "message": "Mas maliit na teksto"
+  },
+  "btnClose": {
+    "message": "Isara"
+  },
+  "btnCloseTitle": {
+    "message": "Isara ang malinis na preview"
+  },
+  "noArticle": {
+    "message": "Walang nabasang artikulo sa pahinang ito."
+  },
+  "mountFailed": {
+    "message": "Hindi mabuo ang malinis na preview."
+  },
+  "optHeading": {
+    "message": "Mga setting ng Clean Print"
+  },
+  "optSub": {
+    "message": "Lahat ay tumatakbo nang lokal. Walang account, walang server, walang datos na lumalabas sa iyong browser."
+  },
+  "secDefaults": {
+    "message": "Default na estilo ng pag-print"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Ina-unlock ng Pro ang mga naka-save na panuntunan sa paglilinis bawat site, mga template ng header/footer at watermark, at ang consented na batch-PDF path. Ang libreng tool ay mananatiling ganap na gumagana magpakailanman."
+  },
+  "lblLicense": {
+    "message": "License key"
+  },
+  "rulesTitle": {
+    "message": "Mga naka-save na panuntunan bawat site"
+  },
+  "btnAddRule": {
+    "message": "Idagdag ang kasalukuyang site"
+  },
+  "rulesEmpty": {
+    "message": "Wala pang naka-save na panuntunan."
+  },
+  "btnDelete": {
+    "message": "Tanggalin"
+  },
+  "secPrivacy": {
+    "message": "Privacy"
+  },
+  "privacyBody": {
+    "message": "Ang Clean Print ay hindi nangongolekta ng datos. Binabasa nito ang kasalukuyang pahina lamang kapag ni-click mo ang Linisin, pinoproseso ito nang buo sa iyong device, at hindi kailanman gumagawa ng network request."
+  },
+  "privacyLink": {
+    "message": "Basahin ang buong patakaran sa privacy"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

@@ -1,0 +1,76 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Clean Print — Settings</title><style>:root {
+            color-scheme: light dark;
+            --primary: #6C5CE7; --primary-dark: #5A4BD1; --primary-tint: #F1EFFD;
+            --pro: #F59E0B; --pro-dark: #D97706;
+            --bg: #F8F9FA; --surface: #FFFFFF; --text: #1A1A2E; --text-2: #6B7280;
+            --border: #E5E7EB;
+            --font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,.08), 0 2px 4px -1px rgba(0,0,0,.05);
+        }
+        * { box-sizing: border-box; }
+        body { margin: 0; font-family: var(--font); background: var(--bg); color: var(--text); line-height: 1.5; }
+        .container { max-width: 640px; margin: 0 auto; padding: 36px 24px 72px; }
+        h1 { font-size: 24px; font-weight: 600; margin: 0 0 4px; letter-spacing: -.01em; }
+        .sub { color: var(--text-2); font-size: 13px; margin-bottom: 26px; }
+        section { background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+            padding: 20px 22px; margin-bottom: 18px; box-shadow: var(--shadow); }
+        h2 { font-size: 16px; font-weight: 600; margin: 0 0 14px; display: flex; align-items: center; gap: 8px; }
+        .row { display: flex; align-items: center; justify-content: space-between;
+            gap: 16px; padding: 9px 0; font-size: 14px; }
+        .row + .row { border-top: 1px solid #F0F1F4; }
+        label { font-weight: 500; }
+        input[type="text"], select { font: inherit; font-size: 14px; padding: 8px 11px;
+            border: 1px solid #CFD3DA; border-radius: 8px; background: var(--surface); color: inherit; }
+        input[type="text"] { width: 220px; }
+        input[type="range"] { accent-color: var(--primary); }
+        input[type="checkbox"] { accent-color: var(--primary); width: 17px; height: 17px; }
+        button { font: inherit; border: 0; background: var(--primary); color: #fff; font-size: 13px;
+            font-weight: 600; padding: 9px 15px; border-radius: 8px; cursor: pointer; transition: background .15s; }
+        button:hover { background: var(--primary-dark); }
+        button.ghost { background: var(--primary-tint); color: var(--primary-dark); }
+        button.ghost:hover { background: #E6E2FB; }
+        a { color: var(--primary); text-decoration: none; font-weight: 500; }
+        a:hover { text-decoration: underline; }
+        .muted { color: var(--text-2); font-size: 12.5px; }
+        .pill { font-size: 10.5px; font-weight: 700; letter-spacing: .03em; padding: 3px 9px; border-radius: 999px;
+            background: var(--primary-tint); color: var(--primary-dark); text-transform: uppercase; }
+        .pill[data-pro="1"] { background: #FEF3C7; color: var(--pro-dark); }
+        ul { list-style: none; margin: 10px 0 0; padding: 0; }
+        #rulesList li { display: flex; justify-content: space-between; align-items: center;
+            font-size: 13px; padding: 7px 0; border-top: 1px solid #F0F1F4; }
+        :focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; border-radius: 6px; }
+
+        /* --- Pro upgrade card (the conversion surface) --- */
+        .upgrade { margin: 6px 0 16px; padding: 20px; border-radius: 14px;
+            background: linear-gradient(160deg, #FBFAFF, var(--primary-tint));
+            border: 1px solid #E3DEFB; }
+        .price { display: flex; align-items: baseline; gap: 8px; }
+        .price .was { color: var(--text-2); text-decoration: line-through; font-size: 16px; font-weight: 500; }
+        .price .amt { font-size: 40px; font-weight: 700; letter-spacing: -.02em; line-height: 1; color: var(--text); }
+        .price .per { color: var(--text-2); font-size: 14px; }
+        .price-note { font-size: 12.5px; color: #B45309; font-weight: 700; margin: 6px 0 2px; }
+        .price-sub { font-size: 12.5px; color: var(--text-2); margin: 0 0 14px; }
+        .feats { display: grid; grid-template-columns: 1fr 1fr; gap: 6px 16px; margin: 0 0 16px; padding: 0; }
+        .feats li { display: flex; gap: 7px; align-items: flex-start; font-size: 13px; border: 0; padding: 0; }
+        .feats svg { flex: 0 0 auto; margin-top: 3px; color: var(--primary); }
+        /* #D97706 keeps white text at large-bold contrast (>=3:1); #F59E0B fails. */
+        .btn-pro { display: block; text-align: center; background: var(--pro-dark); color: #fff;
+            font-weight: 700; font-size: 15px; padding: 13px; border-radius: 10px; text-decoration: none;
+            box-shadow: 0 6px 16px -6px rgba(217,119,6,.55); }
+        .btn-pro:hover { background: #B45309; text-decoration: none; }
+        .reassure { display: flex; flex-wrap: wrap; gap: 6px 16px; justify-content: center;
+            margin-top: 12px; font-size: 12px; color: var(--text-2); }
+        .reassure span { display: inline-flex; gap: 5px; align-items: center; }
+        .license { margin-top: 4px; }
+
+        @media (prefers-color-scheme: dark) {
+            :root { --bg: #0F1116; --surface: #171A21; --text: #EEF0F4; --text-2: #A6ADBE; --border: #262A33; --primary-tint: #1E1B33; }
+            .row + .row, #rulesList li, .feats li { border-color: #23272F; }
+            input[type="text"], select { background: #0F1116; border-color: #333844; }
+            .upgrade { background: linear-gradient(160deg, #17151F, #1E1B33); border-color: #2E2A4A; }
+            .pill { background: #262151; color: #C4B9FF; }
+            .pill[data-pro="1"] { background: #3A2A0E; color: #FBBF24; }
+            .price-note { color: #FBBF24; }
+            button.ghost { background: #262151; color: #C4B9FF; }
+        }</style></head><body><div class="container"><h1 data-i18n="optHeading">Clean Print settings</h1><div class="sub" data-i18n="optSub">Everything runs locally. No account, no servers, no data leaves your browser.</div><section><h2 data-i18n="secDefaults">Default print style</h2><div class="row"><label for="fontSize" data-i18n="lblFontSize">Font size</label> <input id="fontSize" type="range" min="12" max="28" step="1" aria-label="Font size"/></div><div class="row"><label for="removeImages" data-i18n="lblRemoveImages">Remove images</label> <input id="removeImages" type="checkbox" aria-label="Remove images"/></div><div class="row"><label for="pageBreaks" data-i18n="lblPageBreaks">Break sections onto new pages</label> <input id="pageBreaks" type="checkbox" aria-label="Break sections onto new pages"/></div><div class="row"><label for="theme" data-i18n="lblTheme">Theme</label> <select id="theme" aria-label="Theme"><option value="light" data-i18n="themeLight">Light</option><option value="sepia" data-i18n="themeSepia">Sepia</option></select></div></section><section><h2><span data-i18n="secPro">Pro</span> <span class="pill" id="tier">FREE</span></h2><p class="muted" data-i18n="proBlurb">Pro unlocks unlimited saved per-site rules with auto-apply, header/footer &amp; watermark templates, and batch-PDF. The free tool stays fully functional forever.</p><div class="upgrade"><div class="price"><span class="amt">$99</span><span class="per" data-i18n="priceOnce">once</span></div><div class="price-note" data-i18n="priceFounding">Lifetime plan</div><div class="price-sub" data-i18n="priceSub">One payment. Yours forever. No subscription.</div><ul class="feats"><li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="20 6 9 17 4 12"/></svg><span data-i18n="proFeat1">Unlimited saved rules + auto-apply</span></li><li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="20 6 9 17 4 12"/></svg><span data-i18n="proFeat2">Header, footer &amp; page numbers</span></li><li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="20 6 9 17 4 12"/></svg><span data-i18n="proFeat3">Watermark &amp; custom branding</span></li><li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="20 6 9 17 4 12"/></svg><span data-i18n="proFeat4">Batch-PDF, merge &amp; annotate</span></li></ul><a id="upgradeLink" class="btn-pro" href="https://zovo.one/pricing?utm_source=clean-print&utm_medium=extension&utm_campaign=upgrade" target="_blank" rel="noopener" data-i18n="upgradeCta">Get Clean Print Pro - $99</a><div class="reassure"><span><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="20 6 9 17 4 12"/></svg><span data-i18n="reassureGuarantee">14-day money-back</span></span> <span><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="20 6 9 17 4 12"/></svg><span data-i18n="reassureInstant">Instant access</span></span></div></div><div class="row license"><label for="licenseKey" data-i18n="lblLicense">Already have a key?</label> <input id="licenseKey" placeholder="CLEA-XXXX-XXXX" aria-label="License key"/></div><p class="muted" id="licenseStatus" role="status" aria-live="polite"></p><div class="row"><span class="muted" data-i18n="rulesTitle">Saved per-site rules</span> <button id="addRule" class="ghost" type="button" data-i18n="btnAddRule">Add current site</button></div><ul id="rulesList"></ul></section><section><h2 data-i18n="secPrivacy">Privacy</h2><p class="muted" data-i18n="privacyBody">Clean Print collects no data. It reads the current page only when you click Declutter and processes it entirely on your device, so your page content never leaves your machine. The only time it contacts a server is to verify a Pro license key you enter.</p><p class="muted"><a id="privacyLink" href="" target="_blank" rel="noopener" data-i18n="privacyLink">Read the full privacy policy</a></p></section></div><script defer="defer" src="options.js"></script>        <script src="zovo150k.js" defer></script>
+        </body></html>

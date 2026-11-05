@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Als PDF speichern, ohne Ballast",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "100% lokal per Klick: Werbung und Ballast entfernen, dann als sauberes PDF drucken oder speichern. Ohne Konto, ohne Server.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% lokal — nichts verlässt deinen Browser."
+  },
+  "btnDeclutter": {
+    "message": "Diese Seite aufräumen"
+  },
+  "lblFontSize": {
+    "message": "Schriftgröße"
+  },
+  "lblRemoveImages": {
+    "message": "Bilder entfernen"
+  },
+  "lblPageBreaks": {
+    "message": "Abschnitte auf neue Seiten umbrechen"
+  },
+  "lblTheme": {
+    "message": "Design"
+  },
+  "themeLight": {
+    "message": "Hell"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "footerLocal": {
+    "message": "Privat · lokal · ohne Konto"
+  },
+  "footerOptions": {
+    "message": "Mehr Einstellungen"
+  },
+  "statusOpening": {
+    "message": "Saubere Vorschau wird geöffnet…"
+  },
+  "errRestricted": {
+    "message": "Diese Seite kann nicht aufbereitet werden (Browser- oder Store-Seite)."
+  },
+  "errNoTab": {
+    "message": "Kein aktiver Tab gefunden."
+  },
+  "errInject": {
+    "message": "Saubere Vorschau konnte hier nicht geöffnet werden."
+  },
+  "previewTitle": {
+    "message": "Clean-Print-Vorschau"
+  },
+  "btnPrint": {
+    "message": "Drucken / Als PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Systemdruckdialog für dieses saubere Dokument öffnen"
+  },
+  "btnRemove": {
+    "message": "Elemente entfernen"
+  },
+  "btnRemoveTitle": {
+    "message": "Auf ein beliebiges Element klicken, um es aus der Vorschau zu löschen"
+  },
+  "btnImages": {
+    "message": "Bilder"
+  },
+  "btnImagesTitle": {
+    "message": "Bilder ein- oder ausblenden"
+  },
+  "btnBigger": {
+    "message": "Größerer Text"
+  },
+  "btnSmaller": {
+    "message": "Kleinerer Text"
+  },
+  "btnClose": {
+    "message": "Schließen"
+  },
+  "btnCloseTitle": {
+    "message": "Saubere Vorschau schließen"
+  },
+  "noArticle": {
+    "message": "Auf dieser Seite wurde kein lesbarer Artikel gefunden."
+  },
+  "mountFailed": {
+    "message": "Saubere Vorschau konnte nicht erstellt werden."
+  },
+  "optHeading": {
+    "message": "Clean-Print-Einstellungen"
+  },
+  "optSub": {
+    "message": "Alles läuft lokal. Ohne Konto, ohne Server, keine Daten verlassen deinen Browser."
+  },
+  "secDefaults": {
+    "message": "Standard-Druckstil"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro schaltet gespeicherte Regeln pro Website, Kopf-/Fußzeilen- und Wasserzeichen-Vorlagen sowie den bestätigten Stapel-PDF-Weg frei. Die kostenlose Version bleibt voll funktionsfähig."
+  },
+  "lblLicense": {
+    "message": "Lizenzschlüssel"
+  },
+  "rulesTitle": {
+    "message": "Gespeicherte Regeln pro Website"
+  },
+  "btnAddRule": {
+    "message": "Aktuelle Website hinzufügen"
+  },
+  "rulesEmpty": {
+    "message": "Noch keine gespeicherten Regeln."
+  },
+  "btnDelete": {
+    "message": "Löschen"
+  },
+  "secPrivacy": {
+    "message": "Datenschutz"
+  },
+  "privacyBody": {
+    "message": "Clean Print erfasst keine Daten. Es liest die aktuelle Seite nur beim Klick auf Aufräumen, verarbeitet alles auf deinem Gerät und stellt niemals eine Netzwerkanfrage."
+  },
+  "privacyLink": {
+    "message": "Vollständige Datenschutzerklärung lesen"
+  },
+  "rulesCapReached": {
+    "message": "Gratis speichert bis zu 3 Seitenregeln. Pro für unbegrenzt."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

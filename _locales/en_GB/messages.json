@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Save as PDF without the clutter",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "One-click, 100% local declutter, strip ads and clutter, then print or save a clean PDF. No account, no servers, no tracking.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% local — nothing leaves your browser."
+  },
+  "btnDeclutter": {
+    "message": "Declutter this page"
+  },
+  "lblFontSize": {
+    "message": "Font size"
+  },
+  "lblRemoveImages": {
+    "message": "Remove images"
+  },
+  "lblPageBreaks": {
+    "message": "Break sections onto new pages"
+  },
+  "lblTheme": {
+    "message": "Theme"
+  },
+  "themeLight": {
+    "message": "Light"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "footerLocal": {
+    "message": "Private · local · no account"
+  },
+  "footerOptions": {
+    "message": "More settings"
+  },
+  "statusOpening": {
+    "message": "Opening clean preview…"
+  },
+  "errRestricted": {
+    "message": "This page can't be decluttered (browser or store page)."
+  },
+  "errNoTab": {
+    "message": "No active tab found."
+  },
+  "errInject": {
+    "message": "Couldn't open the clean preview here."
+  },
+  "previewTitle": {
+    "message": "Clean Print preview"
+  },
+  "btnPrint": {
+    "message": "Print / Save PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Open the native print dialog for this clean document"
+  },
+  "btnRemove": {
+    "message": "Remove elements"
+  },
+  "btnRemoveTitle": {
+    "message": "Click any element to delete it from the preview"
+  },
+  "btnImages": {
+    "message": "Images"
+  },
+  "btnImagesTitle": {
+    "message": "Toggle images on or off"
+  },
+  "btnBigger": {
+    "message": "Bigger text"
+  },
+  "btnSmaller": {
+    "message": "Smaller text"
+  },
+  "btnClose": {
+    "message": "Close"
+  },
+  "btnCloseTitle": {
+    "message": "Close the clean preview"
+  },
+  "noArticle": {
+    "message": "No readable article found on this page."
+  },
+  "mountFailed": {
+    "message": "Couldn't build the clean preview."
+  },
+  "optHeading": {
+    "message": "Clean Print settings"
+  },
+  "optSub": {
+    "message": "Everything runs locally. No account, no servers, no data leaves your browser."
+  },
+  "secDefaults": {
+    "message": "Default print style"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro unlocks saved per-site declutter rules, header/footer & watermark templates, and the consented batch-PDF path. The free tool stays fully functional forever."
+  },
+  "lblLicense": {
+    "message": "License key"
+  },
+  "rulesTitle": {
+    "message": "Saved per-site rules"
+  },
+  "btnAddRule": {
+    "message": "Add current site"
+  },
+  "rulesEmpty": {
+    "message": "No saved rules yet."
+  },
+  "btnDelete": {
+    "message": "Delete"
+  },
+  "secPrivacy": {
+    "message": "Privacy"
+  },
+  "privacyBody": {
+    "message": "Clean Print collects no data. It reads the current page only when you click Declutter, processes it entirely on your device, and never makes a network request."
+  },
+  "privacyLink": {
+    "message": "Read the full privacy policy"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

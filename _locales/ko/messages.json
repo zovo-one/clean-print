@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - 잡동사니 없이 PDF로 저장",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "클릭 한 번으로 100% 로컬 정리: 광고와 잡동사니를 없애고 깔끔한 PDF로 인쇄하거나 저장하세요. 계정·서버 불필요.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% 로컬 — 어떤 것도 브라우저를 벗어나지 않습니다."
+  },
+  "btnDeclutter": {
+    "message": "이 페이지 정리"
+  },
+  "lblFontSize": {
+    "message": "글자 크기"
+  },
+  "lblRemoveImages": {
+    "message": "이미지 제거"
+  },
+  "lblPageBreaks": {
+    "message": "섹션을 새 페이지로 나누기"
+  },
+  "lblTheme": {
+    "message": "테마"
+  },
+  "themeLight": {
+    "message": "라이트"
+  },
+  "themeSepia": {
+    "message": "세피아"
+  },
+  "footerLocal": {
+    "message": "비공개 · 로컬 · 계정 없음"
+  },
+  "footerOptions": {
+    "message": "추가 설정"
+  },
+  "statusOpening": {
+    "message": "깔끔한 미리보기 여는 중…"
+  },
+  "errRestricted": {
+    "message": "이 페이지는 정리할 수 없습니다(브라우저 또는 스토어 페이지)."
+  },
+  "errNoTab": {
+    "message": "활성 탭을 찾을 수 없습니다."
+  },
+  "errInject": {
+    "message": "여기서는 깔끔한 미리보기를 열 수 없습니다."
+  },
+  "previewTitle": {
+    "message": "Clean Print 미리보기"
+  },
+  "btnPrint": {
+    "message": "인쇄 / PDF 저장"
+  },
+  "btnPrintTitle": {
+    "message": "이 깔끔한 문서의 기본 인쇄 대화상자 열기"
+  },
+  "btnRemove": {
+    "message": "요소 제거"
+  },
+  "btnRemoveTitle": {
+    "message": "미리보기에서 삭제하려면 요소를 클릭하세요"
+  },
+  "btnImages": {
+    "message": "이미지"
+  },
+  "btnImagesTitle": {
+    "message": "이미지 켜기/끄기"
+  },
+  "btnBigger": {
+    "message": "글자 크게"
+  },
+  "btnSmaller": {
+    "message": "글자 작게"
+  },
+  "btnClose": {
+    "message": "닫기"
+  },
+  "btnCloseTitle": {
+    "message": "깔끔한 미리보기 닫기"
+  },
+  "noArticle": {
+    "message": "이 페이지에서 읽을 수 있는 글을 찾지 못했습니다."
+  },
+  "mountFailed": {
+    "message": "깔끔한 미리보기를 만들 수 없습니다."
+  },
+  "optHeading": {
+    "message": "Clean Print 설정"
+  },
+  "optSub": {
+    "message": "모든 것이 로컬에서 작동합니다. 계정·서버 없이, 어떤 데이터도 브라우저를 벗어나지 않습니다."
+  },
+  "secDefaults": {
+    "message": "기본 인쇄 스타일"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro는 사이트별 저장 규칙, 머리글/바닥글 및 워터마크 템플릿, 동의 기반 일괄 PDF 경로를 잠금 해제합니다. 무료 버전은 영원히 완전하게 작동합니다."
+  },
+  "lblLicense": {
+    "message": "라이선스 키"
+  },
+  "rulesTitle": {
+    "message": "사이트별 저장 규칙"
+  },
+  "btnAddRule": {
+    "message": "현재 사이트 추가"
+  },
+  "rulesEmpty": {
+    "message": "아직 저장된 규칙이 없습니다."
+  },
+  "btnDelete": {
+    "message": "삭제"
+  },
+  "secPrivacy": {
+    "message": "개인정보"
+  },
+  "privacyBody": {
+    "message": "Clean Print는 데이터를 수집하지 않습니다. 정리를 클릭할 때만 현재 페이지를 읽고, 모두 기기에서 처리하며, 네트워크 요청을 하지 않습니다."
+  },
+  "privacyLink": {
+    "message": "전체 개인정보처리방침 읽기"
+  },
+  "rulesCapReached": {
+    "message": "무료 버전은 사이트 규칙을 3개까지 저장합니다. 무제한은 Pro에서."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

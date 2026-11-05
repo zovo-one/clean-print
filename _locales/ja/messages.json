@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - すっきりPDF保存",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "ワンクリックで100%ローカル整理。広告や雑然とした要素を除き、きれいなPDFを印刷・保存。アカウント不要、サーバー不要。",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100%ローカル — データはブラウザーから出ません。"
+  },
+  "btnDeclutter": {
+    "message": "このページを整理"
+  },
+  "lblFontSize": {
+    "message": "文字サイズ"
+  },
+  "lblRemoveImages": {
+    "message": "画像を削除"
+  },
+  "lblPageBreaks": {
+    "message": "セクションを改ページで区切る"
+  },
+  "lblTheme": {
+    "message": "テーマ"
+  },
+  "themeLight": {
+    "message": "ライト"
+  },
+  "themeSepia": {
+    "message": "セピア"
+  },
+  "footerLocal": {
+    "message": "プライベート · ローカル · アカウント不要"
+  },
+  "footerOptions": {
+    "message": "詳細設定"
+  },
+  "statusOpening": {
+    "message": "クリーンプレビューを開いています…"
+  },
+  "errRestricted": {
+    "message": "このページは整理できません（ブラウザーまたはストアのページ）。"
+  },
+  "errNoTab": {
+    "message": "アクティブなタブが見つかりません。"
+  },
+  "errInject": {
+    "message": "ここではクリーンプレビューを開けませんでした。"
+  },
+  "previewTitle": {
+    "message": "Clean Print プレビュー"
+  },
+  "btnPrint": {
+    "message": "印刷 / PDF保存"
+  },
+  "btnPrintTitle": {
+    "message": "このクリーンな文書の印刷ダイアログを開く"
+  },
+  "btnRemove": {
+    "message": "要素を削除"
+  },
+  "btnRemoveTitle": {
+    "message": "任意の要素をクリックしてプレビューから削除"
+  },
+  "btnImages": {
+    "message": "画像"
+  },
+  "btnImagesTitle": {
+    "message": "画像の表示を切り替え"
+  },
+  "btnBigger": {
+    "message": "文字を大きく"
+  },
+  "btnSmaller": {
+    "message": "文字を小さく"
+  },
+  "btnClose": {
+    "message": "閉じる"
+  },
+  "btnCloseTitle": {
+    "message": "クリーンプレビューを閉じる"
+  },
+  "noArticle": {
+    "message": "このページに読める記事が見つかりません。"
+  },
+  "mountFailed": {
+    "message": "クリーンプレビューを作成できませんでした。"
+  },
+  "optHeading": {
+    "message": "Clean Print 設定"
+  },
+  "optSub": {
+    "message": "すべてローカルで動作します。アカウント不要、サーバー不要、データはブラウザーから出ません。"
+  },
+  "secDefaults": {
+    "message": "既定の印刷スタイル"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Proではサイトごとの整理ルール、ヘッダー/フッターや透かしテンプレート、同意済みの一括PDF機能が使えます。無料版は今後もフル機能のままです。"
+  },
+  "lblLicense": {
+    "message": "ライセンスキー"
+  },
+  "rulesTitle": {
+    "message": "保存済みのサイト別ルール"
+  },
+  "btnAddRule": {
+    "message": "現在のサイトを追加"
+  },
+  "rulesEmpty": {
+    "message": "保存済みのルールはまだありません。"
+  },
+  "btnDelete": {
+    "message": "削除"
+  },
+  "secPrivacy": {
+    "message": "プライバシー"
+  },
+  "privacyBody": {
+    "message": "Clean Printはデータを収集しません。「整理」をクリックしたときのみ現在のページを読み取り、すべて端末内で処理し、ネットワーク通信は一切行いません。"
+  },
+  "privacyLink": {
+    "message": "プライバシーポリシー全文を読む"
+  },
+  "rulesCapReached": {
+    "message": "無料版はサイトルールを3件まで保存できます。Proで無制限に。"
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

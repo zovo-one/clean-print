@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Dağınıklık olmadan PDF kaydet",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Tek tıkla %100 yerel temizlik: reklamları kaldırın, temiz bir PDF yazdırın veya kaydedin. Hesap ve sunucu yok.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "%100 yerel — hiçbir şey tarayıcınızdan çıkmaz."
+  },
+  "btnDeclutter": {
+    "message": "Bu sayfayı temizle"
+  },
+  "lblFontSize": {
+    "message": "Yazı boyutu"
+  },
+  "lblRemoveImages": {
+    "message": "Görselleri kaldır"
+  },
+  "lblPageBreaks": {
+    "message": "Bölümleri yeni sayfalara ayır"
+  },
+  "lblTheme": {
+    "message": "Tema"
+  },
+  "themeLight": {
+    "message": "Açık"
+  },
+  "themeSepia": {
+    "message": "Sepya"
+  },
+  "footerLocal": {
+    "message": "Gizli · yerel · hesapsız"
+  },
+  "footerOptions": {
+    "message": "Daha fazla ayar"
+  },
+  "statusOpening": {
+    "message": "Temiz önizleme açılıyor…"
+  },
+  "errRestricted": {
+    "message": "Bu sayfa temizlenemez (tarayıcı veya mağaza sayfası)."
+  },
+  "errNoTab": {
+    "message": "Etkin sekme bulunamadı."
+  },
+  "errInject": {
+    "message": "Temiz önizleme burada açılamadı."
+  },
+  "previewTitle": {
+    "message": "Clean Print önizleme"
+  },
+  "btnPrint": {
+    "message": "Yazdır / PDF kaydet"
+  },
+  "btnPrintTitle": {
+    "message": "Bu temiz belge için sistem yazdırma penceresini aç"
+  },
+  "btnRemove": {
+    "message": "Öğeleri kaldır"
+  },
+  "btnRemoveTitle": {
+    "message": "Önizlemeden silmek için herhangi bir öğeye tıklayın"
+  },
+  "btnImages": {
+    "message": "Görseller"
+  },
+  "btnImagesTitle": {
+    "message": "Görselleri aç veya kapat"
+  },
+  "btnBigger": {
+    "message": "Daha büyük metin"
+  },
+  "btnSmaller": {
+    "message": "Daha küçük metin"
+  },
+  "btnClose": {
+    "message": "Kapat"
+  },
+  "btnCloseTitle": {
+    "message": "Temiz önizlemeyi kapat"
+  },
+  "noArticle": {
+    "message": "Bu sayfada okunabilir bir makale bulunamadı."
+  },
+  "mountFailed": {
+    "message": "Temiz önizleme oluşturulamadı."
+  },
+  "optHeading": {
+    "message": "Clean Print ayarları"
+  },
+  "optSub": {
+    "message": "Her şey yerel çalışır. Hesap yok, sunucu yok, hiçbir veri tarayıcınızdan çıkmaz."
+  },
+  "secDefaults": {
+    "message": "Varsayılan yazdırma stili"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro; siteye özel kayıtlı kuralları, üstbilgi/altbilgi ve filigran şablonlarını ve onaylı toplu PDF yolunu açar. Ücretsiz sürüm sonsuza dek tam işlevli kalır."
+  },
+  "lblLicense": {
+    "message": "Lisans anahtarı"
+  },
+  "rulesTitle": {
+    "message": "Siteye özel kayıtlı kurallar"
+  },
+  "btnAddRule": {
+    "message": "Geçerli siteyi ekle"
+  },
+  "rulesEmpty": {
+    "message": "Henüz kayıtlı kural yok."
+  },
+  "btnDelete": {
+    "message": "Sil"
+  },
+  "secPrivacy": {
+    "message": "Gizlilik"
+  },
+  "privacyBody": {
+    "message": "Clean Print veri toplamaz. Geçerli sayfayı yalnızca Temizle'ye tıkladığınızda okur, her şeyi cihazınızda işler ve asla ağ isteği yapmaz."
+  },
+  "privacyLink": {
+    "message": "Tam gizlilik politikasını oku"
+  },
+  "rulesCapReached": {
+    "message": "Ücretsiz sürüm en fazla 3 site kuralı saklar. Sınırsız için Pro’ya geçin."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

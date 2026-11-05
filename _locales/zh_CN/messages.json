@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - 无干扰另存为 PDF",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "一键 100% 本地净化：去除广告和杂乱，然后打印或保存干净的 PDF。无需账户，无服务器。",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% 本地运行 — 数据不会离开您的浏览器。"
+  },
+  "btnDeclutter": {
+    "message": "净化此页面"
+  },
+  "lblFontSize": {
+    "message": "字号"
+  },
+  "lblRemoveImages": {
+    "message": "移除图片"
+  },
+  "lblPageBreaks": {
+    "message": "将各部分分到新页"
+  },
+  "lblTheme": {
+    "message": "主题"
+  },
+  "themeLight": {
+    "message": "浅色"
+  },
+  "themeSepia": {
+    "message": "护眼"
+  },
+  "footerLocal": {
+    "message": "私密 · 本地 · 无需账户"
+  },
+  "footerOptions": {
+    "message": "更多设置"
+  },
+  "statusOpening": {
+    "message": "正在打开干净预览…"
+  },
+  "errRestricted": {
+    "message": "此页面无法净化（浏览器或商店页面）。"
+  },
+  "errNoTab": {
+    "message": "未找到活动标签页。"
+  },
+  "errInject": {
+    "message": "无法在此处打开干净预览。"
+  },
+  "previewTitle": {
+    "message": "Clean Print 预览"
+  },
+  "btnPrint": {
+    "message": "打印 / 另存 PDF"
+  },
+  "btnPrintTitle": {
+    "message": "为此干净文档打开系统打印对话框"
+  },
+  "btnRemove": {
+    "message": "移除元素"
+  },
+  "btnRemoveTitle": {
+    "message": "点击任意元素即可将其从预览中删除"
+  },
+  "btnImages": {
+    "message": "图片"
+  },
+  "btnImagesTitle": {
+    "message": "开启或关闭图片"
+  },
+  "btnBigger": {
+    "message": "放大文字"
+  },
+  "btnSmaller": {
+    "message": "缩小文字"
+  },
+  "btnClose": {
+    "message": "关闭"
+  },
+  "btnCloseTitle": {
+    "message": "关闭干净预览"
+  },
+  "noArticle": {
+    "message": "此页面未找到可读文章。"
+  },
+  "mountFailed": {
+    "message": "无法生成干净预览。"
+  },
+  "optHeading": {
+    "message": "Clean Print 设置"
+  },
+  "optSub": {
+    "message": "一切都在本地运行。无需账户，无服务器，任何数据都不会离开您的浏览器。"
+  },
+  "secDefaults": {
+    "message": "默认打印样式"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro 解锁按站点保存的净化规则、页眉/页脚和水印模板，以及经同意的批量 PDF 功能。免费版永久保持完整可用。"
+  },
+  "lblLicense": {
+    "message": "许可证密钥"
+  },
+  "rulesTitle": {
+    "message": "按站点保存的规则"
+  },
+  "btnAddRule": {
+    "message": "添加当前站点"
+  },
+  "rulesEmpty": {
+    "message": "尚无已保存的规则。"
+  },
+  "btnDelete": {
+    "message": "删除"
+  },
+  "secPrivacy": {
+    "message": "隐私"
+  },
+  "privacyBody": {
+    "message": "Clean Print 不收集任何数据。仅在您点击“净化”时读取当前页面，全部在您的设备上处理，绝不发起网络请求。"
+  },
+  "privacyLink": {
+    "message": "阅读完整隐私政策"
+  },
+  "rulesCapReached": {
+    "message": "免费版最多保存 3 条站点规则。升级 Pro 即可无限使用。"
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

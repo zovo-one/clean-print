@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Mentés PDF-ként, zsúfoltság nélkül",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Reklámok és zsúfoltság eltávolítása egy kattintással, 100%-ban helyben. Nyomtass vagy ments tiszta PDF-et. Nincs fiók, se szerver.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100%-ban helyi — semmi nem hagyja el a böngésződet."
+  },
+  "btnDeclutter": {
+    "message": "Oldal rendbetétele"
+  },
+  "lblFontSize": {
+    "message": "Betűméret"
+  },
+  "lblRemoveImages": {
+    "message": "Képek eltávolítása"
+  },
+  "lblPageBreaks": {
+    "message": "Szakaszok új oldalra tördelése"
+  },
+  "lblTheme": {
+    "message": "Téma"
+  },
+  "themeLight": {
+    "message": "Világos"
+  },
+  "themeSepia": {
+    "message": "Szépia"
+  },
+  "footerLocal": {
+    "message": "Privát · helyi · fiók nélkül"
+  },
+  "footerOptions": {
+    "message": "További beállítások"
+  },
+  "statusOpening": {
+    "message": "Tiszta előnézet megnyitása…"
+  },
+  "errRestricted": {
+    "message": "Ez az oldal nem tehető rendbe (böngésző- vagy áruházi oldal)."
+  },
+  "errNoTab": {
+    "message": "Nem található aktív lap."
+  },
+  "errInject": {
+    "message": "Nem sikerült megnyitni itt a tiszta előnézetet."
+  },
+  "previewTitle": {
+    "message": "Clean Print előnézet"
+  },
+  "btnPrint": {
+    "message": "Nyomtatás / PDF mentése"
+  },
+  "btnPrintTitle": {
+    "message": "A natív nyomtatási párbeszédablak megnyitása ehhez a tiszta dokumentumhoz"
+  },
+  "btnRemove": {
+    "message": "Elemek eltávolítása"
+  },
+  "btnRemoveTitle": {
+    "message": "Kattints bármelyik elemre, hogy töröld az előnézetből"
+  },
+  "btnImages": {
+    "message": "Képek"
+  },
+  "btnImagesTitle": {
+    "message": "Képek be- vagy kikapcsolása"
+  },
+  "btnBigger": {
+    "message": "Nagyobb szöveg"
+  },
+  "btnSmaller": {
+    "message": "Kisebb szöveg"
+  },
+  "btnClose": {
+    "message": "Bezárás"
+  },
+  "btnCloseTitle": {
+    "message": "A tiszta előnézet bezárása"
+  },
+  "noArticle": {
+    "message": "Nem található olvasható cikk ezen az oldalon."
+  },
+  "mountFailed": {
+    "message": "Nem sikerült felépíteni a tiszta előnézetet."
+  },
+  "optHeading": {
+    "message": "Clean Print beállítások"
+  },
+  "optSub": {
+    "message": "Minden helyben fut. Nincs fiók, nincsenek szerverek, és semmilyen adat nem hagyja el a böngésződet."
+  },
+  "secDefaults": {
+    "message": "Alapértelmezett nyomtatási stílus"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "A Pro feloldja a mentett, oldalankénti rendrakási szabályokat, a fejléc/lábléc és vízjel sablonokat, valamint a jóváhagyott köteges PDF-útvonalat. Az ingyenes eszköz örökre teljesen működőképes marad."
+  },
+  "lblLicense": {
+    "message": "Licenckulcs"
+  },
+  "rulesTitle": {
+    "message": "Mentett oldalankénti szabályok"
+  },
+  "btnAddRule": {
+    "message": "Jelenlegi oldal hozzáadása"
+  },
+  "rulesEmpty": {
+    "message": "Még nincsenek mentett szabályok."
+  },
+  "btnDelete": {
+    "message": "Törlés"
+  },
+  "secPrivacy": {
+    "message": "Adatvédelem"
+  },
+  "privacyBody": {
+    "message": "A Clean Print nem gyűjt adatokat. Az aktuális oldalt csak akkor olvassa be, amikor a Rendbetétel gombra kattintasz, teljes egészében az eszközödön dolgozza fel, és soha nem küld hálózati kérést."
+  },
+  "privacyLink": {
+    "message": "A teljes adatvédelmi szabályzat elolvasása"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

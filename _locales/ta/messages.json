@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - குழப்பமின்றி PDF ஆக சேமி",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "ஒரே கிளிக்கில், 100% உள்ளூர், விளம்பரம், குழப்பம் நீக்கி சுத்தமான PDF அச்சிடு அல்லது சேமி. கணக்கு இல்லை, கண்காணிப்பு இல்லை.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% உள்ளூர் — எதுவும் உங்கள் உலாவியை விட்டு வெளியேறாது."
+  },
+  "btnDeclutter": {
+    "message": "இந்தப் பக்கத்தின் குழப்பத்தை நீக்கு"
+  },
+  "lblFontSize": {
+    "message": "எழுத்துரு அளவு"
+  },
+  "lblRemoveImages": {
+    "message": "படங்களை நீக்கு"
+  },
+  "lblPageBreaks": {
+    "message": "பிரிவுகளைப் புதிய பக்கங்களாகப் பிரி"
+  },
+  "lblTheme": {
+    "message": "தீம்"
+  },
+  "themeLight": {
+    "message": "வெளிர்"
+  },
+  "themeSepia": {
+    "message": "செபியா"
+  },
+  "footerLocal": {
+    "message": "தனிப்பட்ட · உள்ளூர் · கணக்கு இல்லை"
+  },
+  "footerOptions": {
+    "message": "மேலும் அமைப்புகள்"
+  },
+  "statusOpening": {
+    "message": "சுத்தமான முன்னோட்டத்தைத் திறக்கிறது…"
+  },
+  "errRestricted": {
+    "message": "இந்தப் பக்கத்தின் குழப்பத்தை நீக்க முடியாது (உலாவி அல்லது ஸ்டோர் பக்கம்)."
+  },
+  "errNoTab": {
+    "message": "செயலில் உள்ள தாவல் எதுவும் கண்டறியப்படவில்லை."
+  },
+  "errInject": {
+    "message": "இங்கே சுத்தமான முன்னோட்டத்தைத் திறக்க முடியவில்லை."
+  },
+  "previewTitle": {
+    "message": "Clean Print முன்னோட்டம்"
+  },
+  "btnPrint": {
+    "message": "அச்சிடு / PDF சேமி"
+  },
+  "btnPrintTitle": {
+    "message": "இந்த சுத்தமான ஆவணத்திற்கான உள்ளமைந்த அச்சு உரையாடலைத் திற"
+  },
+  "btnRemove": {
+    "message": "உறுப்புகளை நீக்கு"
+  },
+  "btnRemoveTitle": {
+    "message": "முன்னோட்டத்திலிருந்து நீக்க எந்த உறுப்பையும் கிளிக் செய்யவும்"
+  },
+  "btnImages": {
+    "message": "படங்கள்"
+  },
+  "btnImagesTitle": {
+    "message": "படங்களை இயக்கு அல்லது அணை"
+  },
+  "btnBigger": {
+    "message": "பெரிய உரை"
+  },
+  "btnSmaller": {
+    "message": "சிறிய உரை"
+  },
+  "btnClose": {
+    "message": "மூடு"
+  },
+  "btnCloseTitle": {
+    "message": "சுத்தமான முன்னோட்டத்தை மூடு"
+  },
+  "noArticle": {
+    "message": "இந்தப் பக்கத்தில் படிக்கக்கூடிய கட்டுரை எதுவும் கண்டறியப்படவில்லை."
+  },
+  "mountFailed": {
+    "message": "சுத்தமான முன்னோட்டத்தை உருவாக்க முடியவில்லை."
+  },
+  "optHeading": {
+    "message": "Clean Print அமைப்புகள்"
+  },
+  "optSub": {
+    "message": "அனைத்தும் உள்ளூரில் இயங்குகிறது. கணக்கு இல்லை, சேவையகங்கள் இல்லை, தரவு எதுவும் உங்கள் உலாவியை விட்டு வெளியேறாது."
+  },
+  "secDefaults": {
+    "message": "இயல்புநிலை அச்சு பாணி"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro சேமிக்கப்பட்ட தள வாரியான குழப்ப நீக்க விதிகள், தலைப்பு/அடிக்குறிப்பு & வாட்டர்மார்க் டெம்ப்ளேட்டுகள், மற்றும் ஒப்புதலளிக்கப்பட்ட தொகுதி-PDF வழியைத் திறக்கிறது. இலவச கருவி எப்போதும் முழுமையாகச் செயல்படும்."
+  },
+  "lblLicense": {
+    "message": "உரிமக் குறியீடு"
+  },
+  "rulesTitle": {
+    "message": "சேமிக்கப்பட்ட தள வாரியான விதிகள்"
+  },
+  "btnAddRule": {
+    "message": "தற்போதைய தளத்தைச் சேர்"
+  },
+  "rulesEmpty": {
+    "message": "இதுவரை சேமிக்கப்பட்ட விதிகள் இல்லை."
+  },
+  "btnDelete": {
+    "message": "நீக்கு"
+  },
+  "secPrivacy": {
+    "message": "தனியுரிமை"
+  },
+  "privacyBody": {
+    "message": "Clean Print எந்தத் தரவையும் சேகரிக்காது. நீங்கள் குழப்பம் நீக்கு-வைக் கிளிக் செய்யும்போது மட்டுமே தற்போதைய பக்கத்தைப் படிக்கிறது, அதை முழுவதுமாக உங்கள் சாதனத்தில் செயலாக்குகிறது, ஒருபோதும் நெட்வொர்க் கோரிக்கை செய்யாது."
+  },
+  "privacyLink": {
+    "message": "முழு தனியுரிமைக் கொள்கையைப் படி"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

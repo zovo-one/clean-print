@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - Simpan sebagai PDF tanpa kekusutan",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Nyahkusut satu klik, 100% setempat, buang iklan & kekusutan, cetak atau simpan PDF kemas. Tiada akaun, tiada penjejakan.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% setempat — tiada apa-apa yang meninggalkan pelayar anda."
+  },
+  "btnDeclutter": {
+    "message": "Nyahkusut halaman ini"
+  },
+  "lblFontSize": {
+    "message": "Saiz fon"
+  },
+  "lblRemoveImages": {
+    "message": "Buang imej"
+  },
+  "lblPageBreaks": {
+    "message": "Pisahkan bahagian ke halaman baharu"
+  },
+  "lblTheme": {
+    "message": "Tema"
+  },
+  "themeLight": {
+    "message": "Cerah"
+  },
+  "themeSepia": {
+    "message": "Sepia"
+  },
+  "footerLocal": {
+    "message": "Peribadi · setempat · tiada akaun"
+  },
+  "footerOptions": {
+    "message": "Lagi tetapan"
+  },
+  "statusOpening": {
+    "message": "Membuka pratonton kemas…"
+  },
+  "errRestricted": {
+    "message": "Halaman ini tidak boleh dinyahkusut (halaman pelayar atau kedai)."
+  },
+  "errNoTab": {
+    "message": "Tiada tab aktif ditemui."
+  },
+  "errInject": {
+    "message": "Tidak dapat membuka pratonton kemas di sini."
+  },
+  "previewTitle": {
+    "message": "Pratonton Clean Print"
+  },
+  "btnPrint": {
+    "message": "Cetak / Simpan PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Buka dialog cetak asli untuk dokumen kemas ini"
+  },
+  "btnRemove": {
+    "message": "Buang elemen"
+  },
+  "btnRemoveTitle": {
+    "message": "Klik mana-mana elemen untuk memadamkannya daripada pratonton"
+  },
+  "btnImages": {
+    "message": "Imej"
+  },
+  "btnImagesTitle": {
+    "message": "Togol imej hidup atau mati"
+  },
+  "btnBigger": {
+    "message": "Teks lebih besar"
+  },
+  "btnSmaller": {
+    "message": "Teks lebih kecil"
+  },
+  "btnClose": {
+    "message": "Tutup"
+  },
+  "btnCloseTitle": {
+    "message": "Tutup pratonton kemas"
+  },
+  "noArticle": {
+    "message": "Tiada artikel yang boleh dibaca ditemui pada halaman ini."
+  },
+  "mountFailed": {
+    "message": "Tidak dapat membina pratonton kemas."
+  },
+  "optHeading": {
+    "message": "Tetapan Clean Print"
+  },
+  "optSub": {
+    "message": "Semuanya berjalan secara setempat. Tiada akaun, tiada pelayan, tiada data meninggalkan pelayar anda."
+  },
+  "secDefaults": {
+    "message": "Gaya cetak lalai"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro membuka peraturan nyahkusut per tapak yang disimpan, templat pengepala/pengaki & tera air, dan laluan PDF kelompok yang diizinkan. Alat percuma kekal berfungsi sepenuhnya selamanya."
+  },
+  "lblLicense": {
+    "message": "Kunci lesen"
+  },
+  "rulesTitle": {
+    "message": "Peraturan per tapak yang disimpan"
+  },
+  "btnAddRule": {
+    "message": "Tambah tapak semasa"
+  },
+  "rulesEmpty": {
+    "message": "Belum ada peraturan yang disimpan."
+  },
+  "btnDelete": {
+    "message": "Padam"
+  },
+  "secPrivacy": {
+    "message": "Privasi"
+  },
+  "privacyBody": {
+    "message": "Clean Print tidak mengumpul apa-apa data. Ia membaca halaman semasa hanya apabila anda klik Nyahkusut, memprosesnya sepenuhnya pada peranti anda, dan tidak pernah membuat permintaan rangkaian."
+  },
+  "privacyLink": {
+    "message": "Baca dasar privasi penuh"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

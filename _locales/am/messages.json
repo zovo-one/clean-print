@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - ያለ ትርምስ እንደ PDF አስቀምጥ",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "በአንድ ጠቅታ፣ 100% አካባቢያዊ ማጽዳት, ማስታወቂያዎችን እና ትርምስን ያስወግዱ፣ ከዚያም ንጹህ PDF ያትሙ ወይም ያስቀምጡ። መለያ የለም፣ አገልጋዮች የሉም፣ ክትትል የለም።",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100% አካባቢያዊ — ምንም ነገር አሳሽዎን አይለቅም።"
+  },
+  "btnDeclutter": {
+    "message": "ይህን ገጽ አጽዳ"
+  },
+  "lblFontSize": {
+    "message": "የቅርጸ-ቁምፊ መጠን"
+  },
+  "lblRemoveImages": {
+    "message": "ምስሎችን አስወግድ"
+  },
+  "lblPageBreaks": {
+    "message": "ክፍሎችን ወደ አዲስ ገጾች ከፍል"
+  },
+  "lblTheme": {
+    "message": "ገጽታ"
+  },
+  "themeLight": {
+    "message": "ብሩህ"
+  },
+  "themeSepia": {
+    "message": "ሴፒያ"
+  },
+  "footerLocal": {
+    "message": "የግል · አካባቢያዊ · መለያ የለም"
+  },
+  "footerOptions": {
+    "message": "ተጨማሪ ቅንብሮች"
+  },
+  "statusOpening": {
+    "message": "ንጹህ ቅድመ-እይታ በመክፈት ላይ…"
+  },
+  "errRestricted": {
+    "message": "ይህ ገጽ ሊጸዳ አይችልም (የአሳሽ ወይም የመደብር ገጽ)።"
+  },
+  "errNoTab": {
+    "message": "ንቁ ትር አልተገኘም።"
+  },
+  "errInject": {
+    "message": "ንጹህ ቅድመ-እይታን እዚህ መክፈት አልተቻለም።"
+  },
+  "previewTitle": {
+    "message": "የClean Print ቅድመ-እይታ"
+  },
+  "btnPrint": {
+    "message": "አትም / PDF አስቀምጥ"
+  },
+  "btnPrintTitle": {
+    "message": "ለዚህ ንጹህ ሰነድ የቤተኛ ማተሚያ መገናኛን ክፈት"
+  },
+  "btnRemove": {
+    "message": "ኤለመንቶችን አስወግድ"
+  },
+  "btnRemoveTitle": {
+    "message": "ከቅድመ-እይታ ለመሰረዝ ማንኛውንም ኤለመንት ጠቅ ያድርጉ"
+  },
+  "btnImages": {
+    "message": "ምስሎች"
+  },
+  "btnImagesTitle": {
+    "message": "ምስሎችን አብራ ወይም አጥፋ"
+  },
+  "btnBigger": {
+    "message": "ትልቅ ጽሑፍ"
+  },
+  "btnSmaller": {
+    "message": "ትንሽ ጽሑፍ"
+  },
+  "btnClose": {
+    "message": "ዝጋ"
+  },
+  "btnCloseTitle": {
+    "message": "ንጹህ ቅድመ-እይታን ዝጋ"
+  },
+  "noArticle": {
+    "message": "በዚህ ገጽ ላይ ሊነበብ የሚችል ጽሑፍ አልተገኘም።"
+  },
+  "mountFailed": {
+    "message": "ንጹህ ቅድመ-እይታን መገንባት አልተቻለም።"
+  },
+  "optHeading": {
+    "message": "የClean Print ቅንብሮች"
+  },
+  "optSub": {
+    "message": "ሁሉም ነገር በአካባቢው ይሠራል። መለያ የለም፣ አገልጋዮች የሉም፣ ምንም ውሂብ አሳሽዎን አይለቅም።"
+  },
+  "secDefaults": {
+    "message": "ነባሪ የህትመት ዘይቤ"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro የተቀመጡ በጣቢያ-መሠረት የማጽዳት ደንቦችን፣ የራስጌ/ግርጌ እና የውሃ ምልክት አብነቶችን፣ እና በስምምነት ላይ የተመሠረተ የቡድን-PDF መንገድን ይከፍታል። ነጻ መሣሪያው ለዘላለም ሙሉ በሙሉ ተግባራዊ ሆኖ ይቆያል።"
+  },
+  "lblLicense": {
+    "message": "የፈቃድ ቁልፍ"
+  },
+  "rulesTitle": {
+    "message": "የተቀመጡ በጣቢያ-መሠረት ደንቦች"
+  },
+  "btnAddRule": {
+    "message": "የአሁኑን ጣቢያ አክል"
+  },
+  "rulesEmpty": {
+    "message": "እስካሁን የተቀመጡ ደንቦች የሉም።"
+  },
+  "btnDelete": {
+    "message": "ሰርዝ"
+  },
+  "secPrivacy": {
+    "message": "ግላዊነት"
+  },
+  "privacyBody": {
+    "message": "Clean Print ምንም ውሂብ አይሰበስብም። አጽዳ የሚለውን ጠቅ ሲያደርጉ ብቻ የአሁኑን ገጽ ያነባል፣ ሙሉ በሙሉ በመሣሪያዎ ላይ ያስኬደዋል፣ እና ፈጽሞ የአውታረ መረብ ጥያቄ አያደርግም።"
+  },
+  "privacyLink": {
+    "message": "ሙሉውን የግላዊነት ፖሊሲ ያንብቡ"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

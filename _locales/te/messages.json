@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "క్లీన్ ప్రింట్ - చిందరవందర లేకుండా PDF గా సేవ్ చేయండి",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "ఒక్క క్లిక్‌తో, 100% లోకల్‌గా ప్రకటనలు, చిందరవందర తొలగించి శుభ్రమైన PDF ప్రింట్/సేవ్ చేయండి. ఖాతా, సర్వర్, ట్రాకింగ్ లేదు.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "క్లీన్ ప్రింట్"
+  },
+  "popupTagline": {
+    "message": "100% స్థానికం — ఏదీ మీ బ్రౌజర్‌ను వదిలిపెట్టదు."
+  },
+  "btnDeclutter": {
+    "message": "ఈ పేజీని డిక్లట్టర్ చేయి"
+  },
+  "lblFontSize": {
+    "message": "ఫాంట్ పరిమాణం"
+  },
+  "lblRemoveImages": {
+    "message": "చిత్రాలను తొలగించు"
+  },
+  "lblPageBreaks": {
+    "message": "విభాగాలను కొత్త పేజీలలోకి విభజించు"
+  },
+  "lblTheme": {
+    "message": "థీమ్"
+  },
+  "themeLight": {
+    "message": "లైట్"
+  },
+  "themeSepia": {
+    "message": "సెపియా"
+  },
+  "footerLocal": {
+    "message": "ప్రైవేట్ · స్థానికం · ఖాతా లేదు"
+  },
+  "footerOptions": {
+    "message": "మరిన్ని సెట్టింగ్‌లు"
+  },
+  "statusOpening": {
+    "message": "శుభ్రమైన ప్రివ్యూను తెరుస్తోంది…"
+  },
+  "errRestricted": {
+    "message": "ఈ పేజీని డిక్లట్టర్ చేయలేము (బ్రౌజర్ లేదా స్టోర్ పేజీ)."
+  },
+  "errNoTab": {
+    "message": "యాక్టివ్ ట్యాబ్ కనుగొనబడలేదు."
+  },
+  "errInject": {
+    "message": "ఇక్కడ శుభ్రమైన ప్రివ్యూను తెరవలేకపోయాము."
+  },
+  "previewTitle": {
+    "message": "క్లీన్ ప్రింట్ ప్రివ్యూ"
+  },
+  "btnPrint": {
+    "message": "ప్రింట్ / PDF సేవ్ చేయి"
+  },
+  "btnPrintTitle": {
+    "message": "ఈ శుభ్రమైన పత్రం కోసం స్థానిక ప్రింట్ డైలాగ్‌ను తెరువు"
+  },
+  "btnRemove": {
+    "message": "ఎలిమెంట్‌లను తొలగించు"
+  },
+  "btnRemoveTitle": {
+    "message": "ప్రివ్యూ నుండి తొలగించడానికి ఏదైనా ఎలిమెంట్‌పై క్లిక్ చేయండి"
+  },
+  "btnImages": {
+    "message": "చిత్రాలు"
+  },
+  "btnImagesTitle": {
+    "message": "చిత్రాలను ఆన్ లేదా ఆఫ్ చేయి"
+  },
+  "btnBigger": {
+    "message": "పెద్ద టెక్స్ట్"
+  },
+  "btnSmaller": {
+    "message": "చిన్న టెక్స్ట్"
+  },
+  "btnClose": {
+    "message": "మూసివేయి"
+  },
+  "btnCloseTitle": {
+    "message": "శుభ్రమైన ప్రివ్యూను మూసివేయి"
+  },
+  "noArticle": {
+    "message": "ఈ పేజీలో చదవగలిగే వ్యాసం ఏదీ కనుగొనబడలేదు."
+  },
+  "mountFailed": {
+    "message": "శుభ్రమైన ప్రివ్యూను రూపొందించలేకపోయాము."
+  },
+  "optHeading": {
+    "message": "క్లీన్ ప్రింట్ సెట్టింగ్‌లు"
+  },
+  "optSub": {
+    "message": "ప్రతిదీ స్థానికంగా జరుగుతుంది. ఖాతా లేదు, సర్వర్‌లు లేవు, ఏ డేటా మీ బ్రౌజర్‌ను వదిలిపెట్టదు."
+  },
+  "secDefaults": {
+    "message": "డిఫాల్ట్ ప్రింట్ శైలి"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro సైట్-వారీ సేవ్ చేసిన డిక్లట్టర్ నియమాలు, హెడర్/ఫుటర్ & వాటర్‌మార్క్ టెంప్లేట్‌లు, మరియు సమ్మతితో కూడిన బ్యాచ్-PDF మార్గాన్ని అన్‌లాక్ చేస్తుంది. ఉచిత సాధనం ఎప్పటికీ పూర్తిగా పనిచేస్తూనే ఉంటుంది."
+  },
+  "lblLicense": {
+    "message": "లైసెన్స్ కీ"
+  },
+  "rulesTitle": {
+    "message": "సైట్-వారీ సేవ్ చేసిన నియమాలు"
+  },
+  "btnAddRule": {
+    "message": "ప్రస్తుత సైట్‌ను జోడించు"
+  },
+  "rulesEmpty": {
+    "message": "ఇంకా సేవ్ చేసిన నియమాలు లేవు."
+  },
+  "btnDelete": {
+    "message": "తొలగించు"
+  },
+  "secPrivacy": {
+    "message": "గోప్యత"
+  },
+  "privacyBody": {
+    "message": "క్లీన్ ప్రింట్ ఏ డేటాను సేకరించదు. మీరు డిక్లట్టర్ క్లిక్ చేసినప్పుడు మాత్రమే ఇది ప్రస్తుత పేజీని చదువుతుంది, దానిని పూర్తిగా మీ పరికరంలో ప్రాసెస్ చేస్తుంది, మరియు ఎప్పుడూ నెట్‌వర్క్ అభ్యర్థన చేయదు."
+  },
+  "privacyLink": {
+    "message": "పూర్తి గోప్యతా విధానాన్ని చదవండి"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "extName": {
+    "message": "Clean Print - uložte ako PDF bez neporiadku",
+    "description": "Extension name shown in the Chrome Web Store and toolbar."
+  },
+  "extDesc": {
+    "message": "Na jedno kliknutie odstráňte reklamy a neporiadok, potom vytlačte alebo uložte čisté PDF. 100 % lokálne, bez sledovania.",
+    "description": "Extension description (CWS, <132 chars)."
+  },
+  "popupHeading": {
+    "message": "Clean Print"
+  },
+  "popupTagline": {
+    "message": "100 % lokálne — nič neopustí váš prehliadač."
+  },
+  "btnDeclutter": {
+    "message": "Vyčistiť túto stránku"
+  },
+  "lblFontSize": {
+    "message": "Veľkosť písma"
+  },
+  "lblRemoveImages": {
+    "message": "Odstrániť obrázky"
+  },
+  "lblPageBreaks": {
+    "message": "Rozdeliť sekcie na nové strany"
+  },
+  "lblTheme": {
+    "message": "Motív"
+  },
+  "themeLight": {
+    "message": "Svetlý"
+  },
+  "themeSepia": {
+    "message": "Sépiový"
+  },
+  "footerLocal": {
+    "message": "Súkromné · lokálne · bez účtu"
+  },
+  "footerOptions": {
+    "message": "Ďalšie nastavenia"
+  },
+  "statusOpening": {
+    "message": "Otvára sa čistý náhľad…"
+  },
+  "errRestricted": {
+    "message": "Túto stránku nie je možné vyčistiť (stránka prehliadača alebo obchodu)."
+  },
+  "errNoTab": {
+    "message": "Nenašla sa žiadna aktívna karta."
+  },
+  "errInject": {
+    "message": "Tu sa nepodarilo otvoriť čistý náhľad."
+  },
+  "previewTitle": {
+    "message": "Náhľad Clean Print"
+  },
+  "btnPrint": {
+    "message": "Tlačiť / Uložiť PDF"
+  },
+  "btnPrintTitle": {
+    "message": "Otvoriť natívne dialógové okno tlače pre tento čistý dokument"
+  },
+  "btnRemove": {
+    "message": "Odstrániť prvky"
+  },
+  "btnRemoveTitle": {
+    "message": "Kliknutím na ľubovoľný prvok ho odstránite z náhľadu"
+  },
+  "btnImages": {
+    "message": "Obrázky"
+  },
+  "btnImagesTitle": {
+    "message": "Zapnúť alebo vypnúť obrázky"
+  },
+  "btnBigger": {
+    "message": "Väčší text"
+  },
+  "btnSmaller": {
+    "message": "Menší text"
+  },
+  "btnClose": {
+    "message": "Zavrieť"
+  },
+  "btnCloseTitle": {
+    "message": "Zavrieť čistý náhľad"
+  },
+  "noArticle": {
+    "message": "Na tejto stránke sa nenašiel žiadny čitateľný článok."
+  },
+  "mountFailed": {
+    "message": "Nepodarilo sa vytvoriť čistý náhľad."
+  },
+  "optHeading": {
+    "message": "Nastavenia Clean Print"
+  },
+  "optSub": {
+    "message": "Všetko beží lokálne. Bez účtu, bez serverov, žiadne údaje neopustia váš prehliadač."
+  },
+  "secDefaults": {
+    "message": "Predvolený štýl tlače"
+  },
+  "secPro": {
+    "message": "Pro"
+  },
+  "proBlurb": {
+    "message": "Pro odomyká uložené pravidlá čistenia pre jednotlivé stránky, šablóny hlavičky/päty a vodoznaku a odsúhlasenú cestu dávkového PDF. Bezplatný nástroj zostáva navždy plne funkčný."
+  },
+  "lblLicense": {
+    "message": "Licenčný kľúč"
+  },
+  "rulesTitle": {
+    "message": "Uložené pravidlá pre jednotlivé stránky"
+  },
+  "btnAddRule": {
+    "message": "Pridať aktuálnu stránku"
+  },
+  "rulesEmpty": {
+    "message": "Zatiaľ žiadne uložené pravidlá."
+  },
+  "btnDelete": {
+    "message": "Odstrániť"
+  },
+  "secPrivacy": {
+    "message": "Súkromie"
+  },
+  "privacyBody": {
+    "message": "Clean Print nezbiera žiadne údaje. Aktuálnu stránku číta len keď kliknete na Vyčistiť, spracuje ju úplne na vašom zariadení a nikdy neuskutoční sieťovú požiadavku."
+  },
+  "privacyLink": {
+    "message": "Prečítať si celé zásady ochrany súkromia"
+  },
+  "rulesCapReached": {
+    "message": "Free saves up to 3 site rules. Upgrade to Pro for unlimited."
+  },
+  "licenseChecking": {
+    "message": "Checking your key…"
+  },
+  "licenseActive": {
+    "message": "Pro is active. Thank you."
+  },
+  "licenseInvalid": {
+    "message": "That key was not recognized."
+  },
+  "upgradeCta": {
+    "message": "Get Clean Print Pro, $$99"
+  },
+  "priceOnce": {
+    "message": "once"
+  },
+  "priceFounding": {
+    "message": "Lifetime plan"
+  },
+  "priceSub": {
+    "message": "One payment. Yours forever. No subscription."
+  },
+  "proFeat1": {
+    "message": "Unlimited saved rules + auto-apply"
+  },
+  "proFeat2": {
+    "message": "Header, footer & page numbers"
+  },
+  "proFeat3": {
+    "message": "Watermark & custom branding"
+  },
+  "proFeat4": {
+    "message": "Batch-PDF, merge & annotate"
+  },
+  "reassureGuarantee": {
+    "message": "14-day money-back"
+  },
+  "reassureInstant": {
+    "message": "Instant access"
+  },
+  "footerPro": {
+    "message": "Get Pro, $$99"
+  }
+}
